@@ -64,7 +64,7 @@ create_a_referral_code_after_trading,Erstellen Sie nach dem Handel mit $ {{value
 create_my_code,Erstellen Sie meinen Code
 create_your_referral_code,Erstellen Sie Ihren Empfehlungscode
 creating,Erstellen...
-cross,Kreuzen
+cross,Cross
 cross_account_leverage,Kontoübergreifende Hebelwirkung
 cross_account_leverage_total_cross_positions,Cross-Account-Leverage = Gesamtwert der Cross-Positionen / Cross-Akzeptanz
 cross_margin_ratio,Cross-Margin-Verhältnis
@@ -77,7 +77,7 @@ delete_successfully,Erfolgreich löschen
 deposit_chain,Einzahlungskette
 deposit_confirming,Anzahlungsbestätigung.
 deposit_failed,Einzahlung fehlgeschlagen
-deposit_funds,Einzahlungsfonds
+deposit_funds,Einzahlung
 deposit_history,Einzahlungsverlauf
 deposit_to_earn_more,"Zahlen Sie ein, um mehr zu verdienen"
 destination_address_is_required,Zieladresse ist erforderlich
@@ -186,7 +186,7 @@ market_price,Marktpreis
 max_amount_value1,Maximaler Betrag {{value1}}
 max_buy,Maximaler Kauf
 max_position_size_decreases_the_higher,"Die maximale Positionsgröße nimmt ab, je höher Ihr Leverage ist."
-max_sell,Max Sell
+max_sell,Max Verkauf
 memo,Memo
 minimum_minimum_usdc_order_amount,Mindestens {{MINIMUM_USDC_ORDER_AMOUNT}}
 minimum_minimum_usdc_order_balance,Mindestens {{MINIMUM_USDC_ORDER_BALANCE}}
@@ -203,7 +203,7 @@ network_addition_cancelled,Netzwerkhinzufügung abgebrochen
 network_switch_cancelled_by_user,Netzwerkwechsel vom Benutzer abgebrochen
 new_feature,✦ Neue Funktion!
 no_award_records_available,Keine Auszeichnungsaufzeichnungen verfügbar.
-no_coins_found,Keine Münzen gefunden
+no_coins_found,Keine Währung gefunden
 no_memo_for_this_address,Kein Memo für diese Adresse
 no_records,Keine Aufzeichnungen
 no_remaining_quota_is_available_please,Es ist kein Restkontingent verfügbar. Bitte schließen Sie zunächst Ihre aktiven „Limit Orders“ unter „Offene Orders“.
@@ -263,7 +263,7 @@ BNB ist aufgrund seines Nutzens und seiner Integration in die Binance-Plattform 
 Darüber hinaus ist BNB der native Token von Binance Smart Chain (BSC), einer Blockchain-Plattform zur Entwicklung dezentraler Anwendungen (DApps) und DeFi-Protokolle.
 
 Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
-overview_bnb_intro_title,BINANCE-MÜNZEN-EINFÜHRUNG
+overview_bnb_intro_title,BINANCE-WÄHRUNG-EINFÜHRUNG
 overview_bnb_title,Über Binance Coin
 overview_btc_intro,"Bitcoin (BTC) ist ein Peer-to-Peer-Digitalwert, der ohne eine zentrale Behörde funktioniert. Transaktionen werden von den Teilnehmern des Netzwerks mithilfe kryptografischer Methoden validiert und einem öffentlich zugänglichen Hauptbuch, der sogenannten Blockchain, hinzugefügt. Dieser als Mining bezeichnete Validierungsprozess sichert das Netzwerk. Ungefähr alle 10 Minuten wird dem Miner, der den nächsten Block entdeckt, vom Netzwerk gestattet, alle Transaktionsgebühren aus den im Block enthaltenen Transaktionen sowie eine feste Blockbelohnung für neu ausgegebene Bitcoins einzufordern.
 
@@ -275,12 +275,12 @@ Wie hoch ist die Zuteilung für Bitcoin (BTC)?
 Die Bitcoin-Verteilung, auch Mining genannt, erfolgt über einen dezentralen Prozess, bei dem neu generierte Coins an den Miner vergeben werden, der einen neuen Block erfolgreich validiert. Bitcoin hat keine vordefinierte Zuordnung. Spekulationen über „Satoshis Bitcoin-Holding“ halten sich aufgrund des angeblich frühen Minings weiterhin, ein konkreter Eigentumsnachweis bleibt jedoch aus. Alle geschürften Bitcoins gelten als genutzt, mit Ausnahme bestimmter Adressen, die nachweislich nicht zugänglich sind, sogenannte „verbrannte“ Bitcoin-Adressen.
 
 Wie sieht der Lieferplan für Bitcoin (BTC) aus?
-Der Bitcoin-Vorrat ist so programmiert, dass er eine feste Obergrenze von 21.000.000 Münzen hat, die jemals geschürft werden. Am 3. Januar 2009 startete das Bitcoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 210.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war. Dieser als „Halbierung“ bezeichnete Prozess bedeutet, dass die Belohnungen für Miner halbiert werden. Dies wird alle 210.000 Blöcke so lange passieren, bis alle 21 Millionen Bitcoins erstellt wurden, was voraussichtlich um das Jahr 2142 herum der Fall sein wird. Sobald diese 21 Millionen Bitcoins hergestellt sind, wird es keine neuen mehr geben. Von da an verdienen die Miner Geld mit den für Transaktionen gezahlten Gebühren."
+Der Bitcoin-Vorrat ist so programmiert, dass er eine feste Obergrenze von 21.000.000 Coins hat, die jemals geschürft werden. Am 3. Januar 2009 startete das Bitcoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 210.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war. Dieser als „Halbierung“ bezeichnete Prozess bedeutet, dass die Belohnungen für Miner halbiert werden. Dies wird alle 210.000 Blöcke so lange passieren, bis alle 21 Millionen Bitcoins erstellt wurden, was voraussichtlich um das Jahr 2142 herum der Fall sein wird. Sobald diese 21 Millionen Bitcoins hergestellt sind, wird es keine neuen mehr geben. Von da an verdienen die Miner Geld mit den für Transaktionen gezahlten Gebühren."
 overview_btc_qa_title,Fragen und Antworten zu Bitcoin Tokenomics
 overview_btc_title,Über Bitcoin
-overview_doge_intro,"Dogecoin, oft an seinem Shiba-Inu-Hundelogo zu erkennen, ist die wertvollste Meme-Münze auf dem Kryptomarkt. Es wurde ursprünglich als Scherz im Jahr 2013 von den Softwareentwicklern Billy Markus und Jackson Palmer erstellt.
+overview_doge_intro,"Dogecoin, oft an seinem Shiba-Inu-Hundelogo zu erkennen, ist der wertvollste Meme-Coin auf dem Kryptomarkt. Es wurde ursprünglich als Scherz im Jahr 2013 von den Softwareentwicklern Billy Markus und Jackson Palmer erstellt.
 
-Dogecoin arbeitet in einem dezentralen Peer-to-Peer-Netzwerk, ähnlich wie Bitcoin, jedoch mit einigen wesentlichen Unterschieden. Es verwendet einen Scrypt-Algorithmus, der es weniger anfällig für die von Bitcoin-Minern verwendete Hochgeschwindigkeitshardware macht. Eines der charakteristischen Merkmale von Dogecoin ist sein unbegrenztes Angebot. Im Gegensatz zu Bitcoin, das eine Obergrenze von 21 Millionen Münzen hat, gibt es keine Höchstgrenze für die Anzahl der Dogecoins, die geschürft werden können. Dieser inflationäre Charakter macht es weniger wahrscheinlich, dass Dogecoin gehortet und eher ausgegeben wird, was zu seiner Verwendung als „Trinkgeld“-Währung im Internet beiträgt.
+Dogecoin arbeitet in einem dezentralen Peer-to-Peer-Netzwerk, ähnlich wie Bitcoin, jedoch mit einigen wesentlichen Unterschieden. Es verwendet einen Scrypt-Algorithmus, der es weniger anfällig für die von Bitcoin-Minern verwendete Hochgeschwindigkeitshardware macht. Eines der charakteristischen Merkmale von Dogecoin ist sein unbegrenztes Angebot. Im Gegensatz zu Bitcoin, welcher eine Obergrenze von 21 Millionen Bitcoin hat, gibt es keine Höchstgrenze für die Anzahl der Dogecoins, die geschürft werden können. Dieser inflationäre Charakter macht es weniger wahrscheinlich, dass Dogecoin gehortet und eher ausgegeben wird, was zu seiner Verwendung als „Trinkgeld“-Währung im Internet beiträgt.
 
 Die Popularität von Dogecoin stieg im Jahr 2021 sprunghaft an, was vor allem auf die Unterstützung hochkarätiger Persönlichkeiten wie Elon Musk und Mark Cuban zurückzuführen ist. Bisher erwähnt Musk Dogecoin weiterhin in vielen Beiträgen. Beispielsweise ersetzte Musk im April 2023 das „Blue Bird“-Logo von Twitter durch das Shiba Inu-Logo, was zu einem deutlichen Preisanstieg für Dogecoin führte. Im September 2024 sorgte Musk erneut für Aufsehen, als er auf X (ehemals Twitter) über ein fiktives „Department of Government Efficiency (DOGE)“ postete, was zu einem kurzfristigen Preisanstieg von rund 7 % führte. Sein Engagement spielt weiterhin eine entscheidende Rolle bei den Marktbewegungen von Dogecoin.
 
@@ -333,7 +333,7 @@ overview_ltc_intro_title,LITECOIN-EINFÜHRUNG
 overview_ltc_qa,"Entdecken Sie die Tokenomics von Litecoin (LTC) und sehen Sie sich die Projektdetails unten an.
 
 Wie sieht der Zuteilungs- und Lieferplan für Litecoin (LTC) aus?
-Der Vorrat an Litecoin ist auf eine feste Obergrenze von 84.000.000 Münzen programmiert, die jemals geschürft werden. Am 7. Oktober 2011 startete das Litecoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 840.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war.
+Der Vorrat an Litecoin ist auf eine feste Obergrenze von 84.000.000 Coins programmiert, die jemals geschürft werden. Am 7. Oktober 2011 startete das Litecoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 840.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war.
 
 Etwa 500.000 LTC wurden am ersten Tag nach dem Mining des LTC-Genesis-Blocks instaminiert, und Charlie Lee und vermutlich andere frühe Litecoin-Entwickler gehörten zu den ersten Minern. Dennoch erhalten Litecoin-Entwickler oder Charlie Lee als fair verteiltes Asset keine direkten Gewinne aus dem Betrieb von Litecoin – abgesehen von dem, was sie im Rahmen des regulären Mining-Prozesses verdienen könnten.
 
@@ -418,7 +418,7 @@ overview_xrp_intro,"Ripple (XRP) ist das weltweit erste offene Zahlungsnetzwerk.
 
 XRP ist eine Kryptowährung, die von Ripple Labs Inc. entwickelt wurde, einem Technologieunternehmen, das sich auf die Entwicklung und Integration von Zahlungs- und Echtzeit-Bruttoabrechnungssystemen spezialisiert hat. XRP wurde entwickelt, um schnellere und sicherere grenzüberschreitende Transaktionen zu ermöglichen und basiert auf einer dezentralen Open-Source- und Peer-to-Peer-Plattform, die einen nahtlosen Geldtransfer in jeder Form ermöglicht, sei es USD, Yen, Litecoin oder Bitcoin.
 
-Einer der einzigartigen Aspekte von XRP ist, dass es nicht geschürft wird. Stattdessen gab Ripple Labs zu Beginn der Münze 100 Milliarden XRP aus, wobei ein Teil vom Unternehmen gehalten und der Rest an Benutzer und Investoren verteilt oder verkauft wurde. Außerdem werden XRP-Transaktionen im Gegensatz zu Bitcoin, das ein dezentrales System von Minern nutzt, die um die Lösung komplexer Algorithmen konkurrieren, von einem Netzwerk unabhängiger Server validiert, die Transaktionsdatensätze vergleichen. Dieser Konsensalgorithmus ermöglicht die Abwicklung von Transaktionen in etwa 3–5 Sekunden.
+Einer der einzigartigen Aspekte von XRP ist, dass es nicht geschürft wird. Stattdessen gab Ripple Labs zu Beginn der Währung 100 Milliarden XRP aus, wobei ein Teil vom Unternehmen gehalten und der Rest an Benutzer und Investoren verteilt oder verkauft wurde. Außerdem werden XRP-Transaktionen im Gegensatz zu Bitcoin, das ein dezentrales System von Minern nutzt, die um die Lösung komplexer Algorithmen konkurrieren, von einem Netzwerk unabhängiger Server validiert, die Transaktionsdatensätze vergleichen. Dieser Konsensalgorithmus ermöglicht die Abwicklung von Transaktionen in etwa 3–5 Sekunden.
 
 Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
 overview_xrp_intro_title,XRP-EINFÜHRUNG
@@ -433,7 +433,7 @@ privacy_policy,Datenschutzrichtlinie
 pro,Profi
 proceed_anyway,Fahren Sie trotzdem fort
 proceeding,Weiter
-profit,Profitieren
+profit,Profit
 pulldown,Pulldown
 qr_code_expired_please_login_again,QR-Code abgelaufen. Bitte melden Sie sich erneut an
 qr_code_expires_in_value1,QR-Code läuft in {{value1}} ab
@@ -471,10 +471,10 @@ roi_is_calculated_using_the_formula,Der ROI wird nach folgender Formel berechnet
 safepal_wallet,SafePal-Wallet
 same_address_as_deposit,Gleiche Adresse wie für die Kaution
 scan_qr_code_on_your_mobile,Scannen Sie den QR-Code auf Ihrem Mobilgerät
-search_coin,Suche nach Münzen
+search_coin,Suche nach Währungen
 see_all,Alle anzeigen
-see_the_docs_for_more,Weitere Informationen finden Sie in den Dokumenten.
-sell_short,Verkaufen/Leerverkauf
+see_the_docs_for_more,Weitere Informationen finden Sie in der Dokumentation.
+sell_short,Verkaufen/Short
 send_crypto_to_your_sodex_account,Senden Sie Krypto an Ihr SoDEX-Konto.
 share_your_earn,Teilen Sie Ihr Einkommen
 share_your_luck,Teilen Sie Ihr Glück
@@ -491,9 +491,9 @@ sort_by_value1,Sortieren nach <value1/>
 soso_transfer_failed_please_try_again,Die SOSO-Übertragung ist fehlgeschlagen. Bitte versuchen Sie es erneut.
 sosovalue_advanced_ai_powered_crypto_investment,SoSoValue – Fortschrittliche KI-gestützte Krypto-Investitionsforschungsplattform
 spot_balance_is_not_enough,Das Spot-Guthaben reicht nicht aus
-spread,Verbreiten
+spread,Spread
 stake_soso,Setzen Sie SOSO ein
-stake_to_earn,Einsatz zum Verdienen
+stake_to_earn,Stake zum Verdienen
 start_earning_with_referrals,Verdienen Sie mit Empfehlungen
 start_trading,Beginnen Sie mit dem Handel
 stay_signed_in,Angemeldet bleiben?
@@ -524,7 +524,7 @@ the_maximum_amount_of_availableinfounit_you,"Der maximale Betrag von {{available
 the_maximum_amount_of_quotecoin_you,"Der maximale Betrag von {{quoteCoin}}, den Sie beim Handel mit aktuellem Leverage ausgeben können."
 the_minimum_portfolio_value_required_to,"Der minimale Portfoliowert, der erforderlich ist, um Ihre Cross-Positionen offen zu halten"
 the_qr_code_enables_mobile_trading,"Der QR-Code ermöglicht den mobilen Handel, jedoch keine Ein- und Auszahlungen. Bitte halten Sie diesen QR-Code zu Ihrer Sicherheit vertraulich und teilen Sie keine Screenshots mit. Wir empfehlen, alle Bildschirmfreigabeanwendungen zu schließen, während Sie diese Funktion verwenden."
-the_rate_will_charge_every_hour,"Der Satz wird jede Stunde berechnet, zu der Long-Positionen Short-Positionen zahlen (bei negativem Kurs zahlen Short-Positionen Long-Positionen). Mit der Finanzierung sind keine Gebühren verbunden. Dabei handelt es sich um einen Peer-to-Peer-Transfer zwischen Benutzern, um die Preise in Richtung des Spotpreises zu drücken. Weitere Informationen finden Sie in den Dokumenten."
+the_rate_will_charge_every_hour,"Der Satz wird jede Stunde berechnet, zu der Long-Positionen Short-Positionen zahlen (bei negativem Kurs zahlen Short-Positionen Long-Positionen). Mit der Finanzierung sind keine Gebühren verbunden. Dabei handelt es sich um einen Peer-to-Peer-Transfer zwischen Benutzern, um die Preise in Richtung des Spotpreises zu drücken. Weitere Informationen finden Sie in der Dokumentation."
 the_server_is_busy_please_try,Der Server ist beschäftigt. Bitte versuchen Sie es später noch einmal
 the_user_s_spot_account_must,"Das Spot-Konto des Benutzers muss über Vermögenswerte im Gegenwert von 7.000 USDC verfügen, um sich für die Bestenliste zu qualifizieren."
 this_address_has_been_identified_as,*Diese Adresse wurde als Hochrisikoadresse identifiziert. Überweisungen an diese Adresse können nicht bearbeitet werden.
@@ -569,7 +569,7 @@ transfer_from_spot_account,Überweisung vom Spot-Konto
 transfer_funds_from_binance_or_other,"Überweisen Sie Geld von Binance oder anderen Börsen, Ketten wie Solana und anderen Wallets"
 transfer_funds_to_your_futures_account,Überweisen Sie Geld auf Ihr Futures-Konto und beginnen Sie sofort mit dem Handel!
 transfer_in_progress_please_do_not,"*Übertragung läuft. Bitte schließen Sie dieses Fenster nicht. Das Schließen kann dazu führen, dass Gelder in der EVM-Finanzierung verbleiben und die Auszahlung nicht abgeschlossen werden kann."
-transfer_to_from,Transfer nach/von
+transfer_to_from,Transfer zu/von
 transferred_successfully,Erfolgreich übertragen.
 transferred_successfully_redirecting_to_ssi,Erfolgreich übertragen. Weiterleitung zu SSI.
 trigger_conditions,Triggerbedingungen
@@ -593,7 +593,7 @@ verify,Verifizieren
 verifying,Verifizieren
 view,Sicht
 view_2,Sicht
-view_docs,Dokumente anzeigen
+view_docs,Dokumentation anzeigen
 view_orders,Bestellungen anzeigen
 waiting_for_signature,Warten auf Unterschrift...
 waiting_for_user_to_deposit,Warten auf die Einzahlung des Benutzers

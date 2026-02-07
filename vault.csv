@@ -1,5 +1,5 @@
 ﻿key,value
-24h,24 Stunden
+24h,24h
 account_type_account,{{account_type}} Konto
 account_type_account_inactive,{{account_type}} Konto (inaktiv)
 account_type_EVM-Funding,EVM-Finanzierungskonto

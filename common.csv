@@ -1,7 +1,7 @@
 ﻿key,value
 15m,15m
 1d,1D
-1h,1 Stunde
+1h,1h
 1m,1m
 1m_2,1M
 1w,1W
@@ -83,7 +83,7 @@ copy_link,Link kopieren
 copy_poster,Poster kopieren
 create,Erstellen
 create_code,Code erzeugen
-crossed,Kreuz
+crossed,crossed
 current_vault_apr,Aktueller Tresor APR
 data_amount_data_coin_coinsymbol_withdraw,{{data_amount}} {{data_coin_coinSymbol}} Auszahlung wird bestätigt.
 data_amount_data_coin_coinsymbol_withdraw_2,{{data_amount}} {{data_coin_coinSymbol}} erfolgreich ausgezahlt.
@@ -114,7 +114,7 @@ deposittime_min,~{{depositTime}} min
 deposittime_mins,~{{depositTime}} Min.
 destination_address,Zieladresse
 disconnect,Verbindung trennen
-docs,Dokumente
+docs,Dokumentation
 done,Fertig
 download_poster,Poster Downloaden (pdf)
 enable_claim,Beanspruchung aktivieren
@@ -133,7 +133,7 @@ evm_funding,EVM-Finanzierung
 evm_funding_account,EVM-Finanzierungskonto
 expand,Erweitern
 expired,Abgelaufen
-explorer,Entdecker
+explorer,Explorer
 fail_code,Fehlercode
 fail_code_kyt_failed,KYT_Failed
 fail_code_suspicious_address,Verdächtige Adresse
@@ -168,7 +168,7 @@ funding,Finanzierung
 funding_history,Finanzierungshistorie
 futures,Futures
 futures_account,Futures Konto
-gain,Zugewinn
+gain,Gewinn
 get_stuck_click_to_get_help,"Bleiben Sie stecken? Klicken Sie hier, um Hilfe zu erhalten"
 get_the_tokens_from_external_wallets,Holen Sie sich die Token aus externen Wallets oder verbundenen Wallets.
 hide,Verbergen
@@ -233,10 +233,10 @@ new,Neu
 new_code_cannot_be_the_same,Neuer Code darf nicht mit dem aktuellen Code identisch sein
 new_referrals_may_take_up_to_30_min_to_appear,"Es kann bis zu ~30 Minuten dauern, bis neue Empfehlungen angezeigt werden."
 next,Nächste
-no,Nr.
+no,Nein
 no_data,Keine Daten
 no_data_available,Keine Daten verfügbar
-open_orders,Offene Aufträge
+open_orders,Offene Orders
 order_book,Orderbuch
 order_failed,Bestellung fehlgeschlagen
 order_history,Bestellhistorie
@@ -257,7 +257,7 @@ payload_modifier,Modifizierer
 payload_order_id,Auftragsnummer
 payload_order_side,Auftragsseite
 payload_order_type,Bestelltyp
-payload_orders,Aufträge
+payload_orders,Orders
 payload_original_client_order_id,Ursprüngliche Kundenauftrags-ID
 payload_position_side,Position
 payload_price,Preis
@@ -319,12 +319,12 @@ rewards,Belohnungen
 rows_per_page,Zeilen pro Seite
 save,Speichern
 search_coins,Suche {{coins}}
-select_chain,Regelkette auswählen
-select_coin,"'Coin auswählen',"
+select_chain,Kette auswählen
+select_coin,"Coin auswählen"
 select_market,Markt wählen
 sell,Verkaufen
 settings,Einstellungen
-share,Teil
+share,Teilen
 share_code,Code teilen
 share_link,Link teilen
 share_to_earn,Freigeben für
@@ -341,7 +341,7 @@ sodex_supports_multiple_options_to_fund,"SoDEX unterstützt mehrere Optionen, um
 sodex_value1_png,SoDEX_{{value1}}.png
 sodex_will_cover_the_service_fees,SoDEX übernimmt diesmal die Servicegebühren für Sie.
 sold,verkauft
-spot,Stelle
+spot,Spot
 spot_account,Spot-Konto
 spot_to_fund_transfer,Spot-to-EVM-Fonds-Überweisung
 stake_formdata_amount_value2_successfully,Einsatz {{formData_amount}} {{value2}} erfolgreich
@@ -381,7 +381,7 @@ time_minutes,{{minutes}}min
 time_s_ago,vor {{seconds}}s
 to,Herrn
 to_address,Empfänger Adresse
-tools,Instrumente
+tools,Werkzeuge
 total_balance,Gesamtsaldo
 total_formatbaseunitview,Gesamt({{formatBaseUnitView}})
 total_oi,Gesamt-OI
@@ -392,7 +392,7 @@ tp_price_must_be_greater_than,Der TP-Preis muss größer als 0 und niedriger als
 tp_price_must_be_higher_than,Der TP-Preis muss höher als der Grenzpreis sein.
 tp_sl,TP/SL
 tp_sl_price_is_invalid,TP/SL-Preis ist ungültig.
-trade,Gewerk
+trade,Handel
 trade_history,Handelsverlauf
 trade_more,Mehr handeln
 trading_volume_is_less_than_the,Das Handelsvolumen liegt unter dem Schwellenwert
@@ -404,7 +404,7 @@ transaction_rejected_by_kyt,Diese Transaktion wurde vom KYT-Screening abgelehnt.
 transfer,Überweisung
 transfer_asset_among_your_accounts_to,"Übertragen Sie Assets zwischen Ihren Konten, um die Transaktion abzuschließen."
 transfer_assets_from_spot_to_futures,Übertragen Sie Vermögenswerte von Ihrem SPOT-Konto auf ein Futures-Konto auf SoDEX.
-treasure_box,School Outfit m
+treasure_box,Schatzkiste
 trigger_price,Auslösungspreis
 triggered,Getriggert
 try_again,Erneut versuchen
@@ -414,7 +414,7 @@ unknown,Unbekannt
 unrealized_pnl,Nicht realisierte PnL
 unstake,Einsatz aufheben
 unstaking_smag7_ssi_to_mag7_ssi,Trennung von sMAG7.ssi zu MAG7.ssi
-usd_value,(usd) WERT
+usd_value,(usd) Wert
 used,Benutzt
 user,Benutzer
 user_is_not_allowed_to_invite,Benutzer darf nicht einladen
@@ -428,7 +428,7 @@ weekly_invite_limit_reached,Limit für wöchentliche Einladungen erreicht
 weekly_invite_limit_reached_with_time,Dieser Code hat sein wöchentliches Einladungslimit erreicht. Versuche es mit einem anderen Code oder warte bis {{time}}.
 weekly_quota,Wöchentliches Kontingent
 whitepaper,Weißes Papier
-withdraw,Zurückziehen
+withdraw,Auszahlen
 withdraw_formattedamount_coinsymbol_successfully,{{formattedAmount}} {{coinSymbol}} erfolgreich abheben.
 withdraw_parsedamount_record_coin_successfully,{{parsedAmount}} {{record_coin}} erfolgreich abheben.
 withdraw_parsedamount_token_successfully,{{parsedAmount}} {{token}} erfolgreich abheben.
