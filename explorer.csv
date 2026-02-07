@@ -1,0 +1,41 @@
+﻿key,value
+address_transactions,Adress Transaktionen
+address_value1,Adresse {{value1}}
+all_blocks,Alle Blöcke
+all_futures_blocks,Alle Futures-Blöcke
+all_futures_transactions,Transaktionen in Futures
+all_spot_blocks,Alle Spot-Blöcke
+all_spot_transactions,Spotgeschäft
+all_transactions,Alle Transaktionen
+block_details,Block-Details
+block_type,Block-Typ
+both_one_way_mode,Beide (Einwegmodus)
+cancel_order,Bestellung stornieren
+evm_funding_account_value_value1,EVM-Finanzierungs Kontowert: $ {{value1}}
+fok,FOK
+futures_block_blocknumber,Futures-Block {{blockNumber}}
+futures_block_transactions,Futures-Block-Transaktionen
+futures_trade,Futures-Handel
+hash,Hash
+hash_value1,Hash {{value1}}
+latest_blocks,Neueste Blöcke
+latest_transactions,aktuelle Transaktionen
+limit_price,Limit-Preis
+long_hedge_mode,Lang (Hedge-Modus)
+new_order,Neue Order
+perps_account_value_value1,Perps-Kontowert: $ {{value1}}
+replace_order,Order neu platzieren
+return,Zurück
+search_by_block_transaction_hash_or,"Suche nach Block, Transaktions-Hash oder Benutzeradresse"
+search_not_found,Suche nicht gefunden.
+short_hedge_mode,Kurz (Hedge-Modus)
+spot_block_blocknumber,Spot-Block {{blockNumber}}
+spot_block_transactions,Spot-Block-Transaktionen
+spot_trade,Spot-Handel
+the_block_type_will_distinguish_blocks,Der Blocktyp unterscheidet Blöcke mit identischen Blocknummern in den beiden Ketten.
+to_maximize_block_efficiency_spot_and,"Um die Blockeffizienz zu maximieren, arbeiten Spot und Futures Trade jeweils auf einer unabhängigen Anwendungskette."
+transaction_details,Transaktionen Details
+transactions,Transaktionen
+unspecified,Nicht spezifiziert
+view_all_blocks,Alle Blöcke
+view_all_transactions,Alle Transaktionen anzeigen

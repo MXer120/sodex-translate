@@ -1,0 +1,68 @@
+﻿key,value
+10_rebates,10 % Rabatt
+25_of_invitees_points,25 % DER PUNKTE DER EINGELADENEN
+auto_credited_when_points_go_live,"Wird automatisch gutgeschrieben, wenn Punkte online gehen"
+check_your_referral_code,Überprüfen Sie Ihren Empfehlungscode
+claim_history,Anspruchshistorie
+claim_rewards_will_be_enabled_in,Anspruchsprämien werden in einem zukünftigen Update aktiviert. Ausstehende Prämien werden nach der Abwicklung in einforderungsfähige Belohnungen umgewandelt und die Anspruchsfunktionalität wird über offizielle Updates vor Februar 2026 bekannt gegeben.
+claimable,Anspruchsberechtigt
+claimable_is_the_final_balance_ready,"„Einforderbar“ ist der Endsaldo, der zur Auszahlung auf Ihr Spot-Konto bereitsteht. „Ausstehend“ ist eine geschätzte Belohnung aus kürzlich getätigten Geschäften, die abgewickelt und in „Anspruchbar“ umgewandelt wird. Der ausstehende Betrag kann etwa im Februar 2026 eingefordert werden."
+coming_soon_2,Demnächst verfügbar
+customize_your_own_referral_code,Passen Sie Ihren eigenen Empfehlungscode an
+deposited_referrals,Hinterlegte Empfehlungen
+dex_freedom_cex_speed_earn_every,DEX-Freiheit. CEX-Geschwindigkeit. Verdienen Sie jede Bewegung bei SoDEX.
+dex_freedom_cex_speed_earn_every_2,DEX-Freiheit. CEX-Geschwindigkeit. Verdienen Sie jede Bewegung bei SoDEX:
+enable_referral,Empfehlung aktivieren
+estimated_due_to_token_denominated_fees,Geschätzt aufgrund der auf Token lautenden Gebühren und Preisschwankungen.
+failed_to_customize_referral_code_please,Der Empfehlungscode konnte nicht angepasst werden. Bitte versuchen Sie es erneut.
+failed_to_sign_message_please_try,Nachricht konnte nicht signiert werden. Bitte versuchen Sie es erneut.
+fees_paid_estimated,Gezahlte Gebühren (geschätzt)
+from_25_of_invitees_sopoints,AB 25 % DER PUNKTE DER EINGELADENEN
+generate_a_code_and_share_it,"Generieren Sie einen Code und teilen Sie ihn, um Händler einzuladen."
+have_a_code_link_it_to,"Haben Sie einen Code? Verknüpfen Sie es, um Prämien zu verdienen."
+hide_zero_reward_referrals,Verstecken Sie Empfehlungen ohne Belohnung
+inactive,(Inaktiv)
+invite_user,Benutzer einladen
+invite_users_to_earn,Laden Sie Benutzer zum Verdienen ein
+leaderboard,Bestenliste
+maximum_of_3_successful_referrals_per,Maximal 3 erfolgreiche Empfehlungen pro Woche. Das Kontingent wird jeden Montag um 00:00 UTC zurückgesetzt.
+open_a_channel_from_your_account_2,"Öffnen Sie einen Kanal von Ihrem Konto zu SoDEX, damit Sie SOSO übertragen können."
+pending_rewards_are_still_accumulating_and,"Ausstehende Prämien werden immer noch gesammelt und als Schätzung angezeigt. Anspruchsberechtigte Prämien werden abgerechnet und stellen den Endbetrag dar. Vorerst bleibt Claimable möglicherweise nicht verfügbar, bis die Abrechnung/Anforderung vor Februar 2026 aktiviert wird."
+please_confirm_your_wallet_to_check,"Bitte bestätigen Sie Ihr Wallet, um Ihren Empfehlungscode zu überprüfen"
+points_are_expected_to_become_visible,Punkte werden voraussichtlich ab Februar 2026 sichtbar und vergangene Punkte werden rückwirkend berücksichtigt.
+points_earned_before_public_beta,Vor der öffentlichen Beta gesammelte Punkte werden automatisch gutgeschrieben – es sind keine Maßnahmen erforderlich.
+points_rewards,Punkteprämien
+reached_the_maximum_volume_1b_eligible,"Das maximale Volumen (1 Milliarde US-Dollar), das für eine Umsatzbeteiligung in Frage kommt, wurde erreicht. Für alle weiteren Trades werden Ihnen keine Provisionsprämien eingebracht."
+refer_users_to_earn_rewards,"Empfehlen Sie Benutzer, um Prämien zu erhalten"
+referral,Verweisung
+referral_applied_successfully,Empfehlung erfolgreich beantragt!
+referral_data_updates_about_every_30,Empfehlungsdaten werden etwa alle 30 Minuten aktualisiert.
+referral_date,Überweisungsdatum
+referrals_count_only_includes_users_who,"Die Anzahl der Empfehlungen umfasst nur Benutzer, die eine Einzahlung getätigt haben."
+review_past_reward_settlements_and_claims,Überprüfen Sie frühere Prämienabrechnungen und Ansprüche.
+rewards,Belohnungen
+rewards_breakdown,Aufschlüsselung der Belohnungen
+see_who_you_referred_and_how,"Sehen Sie, wen Sie empfohlen haben und wie viel sie beigetragen haben."
+skip,Überspringen
+skip_transfer,Übertragung überspringen
+sopoints_rewards,SoPoints-Prämien
+step_1_transfer,Schritt 1: Übertragen
+step_2_stake,Schritt 2: Abstecken
+total_fees_earned,Insgesamt verdiente Gebühren
+total_rewards,Gesamtprämien
+totals_include_claimed_pending_rewards_amount,Die Gesamtsummen umfassen den beanspruchten Betrag und den ausstehenden Prämienbetrag.
+trade_to_unlock,"Tauschen Sie, um es freizuschalten"
+traders_referred,Empfohlene Händler
+transfer_in_progress,Übertragung läuft…
+transfer_skipped,Übertragung übersprungen
+transfer_successful,Übertragung erfolgreich
+typically_no_referral_rewards_start_counting,"Normalerweise nein. Empfehlungsprämien beginnen zu zählen, sobald die Empfehlungsbeziehung erfolgreich verknüpft wurde. Vor der Verlinkung getätigte Trades werden nicht gezählt."
+unlock_progress_refreshes_1_min,Freischaltfortschritt (Aktualisierung ca. 1 Minute)
+unlock_referral_rewards,Schalten Sie Empfehlungsprämien frei
+value1_slots_left_this_week,Diese Woche sind noch {{value1}} Plätze verfügbar
+weekly_limit,Wöchentliches Limit
+when_enabled_hides_referrals_with_0,"Wenn diese Option aktiviert ist, werden Empfehlungen mit 0 Belohnungen ausgeblendet."
+you_ll_receive_a_bonus_equal,Sie erhalten einen Bonus in Höhe von 25 % der insgesamt gesammelten Punkte Ihrer Eingeladenen. Die Verfolgung begann mit dem Start des SoDEX Mainnet – jede berechtigte Mainnet-Aktion wird bereits gezählt.
+your_code,Ihr Code
+your_referral_assets,Ihr Empfehlungsvermögen
+your_rewards_estimated,Ihre Belohnungen (geschätzt)

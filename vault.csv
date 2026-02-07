@@ -1,0 +1,85 @@
+﻿key,value
+24h,24 Stunden
+account_type_account,{{account_type}} Konto
+account_type_account_inactive,{{account_type}} Konto (inaktiv)
+account_type_EVM-Funding,EVM-Finanzierungskonto
+account_type_EVM-Funding_inactive,EVM-Finanzierungskonto (inaktiv)
+account_type_Spot,Spot-Konto
+account_type_Spot_inactive,Spot-Konto (inaktiv)
+account_value,TVL
+activity,Aktivität
+all_time_pnl,Allzeit PnL
+all_time_roi,Allzeit-ROI
+amount_tokendisplayname,Betrag ( {{tokenDisplayName}} )
+approve_and_confirm,Genehmigen und bestätigen
+approve_spending_cap,Ausgabenobergrenze genehmigen
+approving_spending_cap_in_wallet_on,Genehmigen der Ausgabenobergrenze im Wallet auf Mobilgeräten
+are_you_sure_to_proceed,"Sind Sie sicher, dass Sie fortfahren möchten?"
+base_chain_deposit_failed_please_try,Die Einzahlung in die Basiskette ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+check,überprüfen
+click_to_claim,"Klicken Sie hier, um Anspruch zu erheben"
+confirmation,Bestätigung
+confirming_in_wallet_on_mobile,Bestätigung im Wallet auf dem Mobilgerät
+dashboard,Armaturenbrett
+days_following,Tage danach
+deposit_amount,Einzahlungsbetrag
+deposit_funds_to_sodex_liquidity_provider,"Zahlen Sie Geld beim SoDEX Liquidity Provider (SLP) ein. Der SLP-Tresor hat keine Sperrfrist, sodass Benutzer direkt ein- und auszahlen können."
+deposit_to_slp_vault,Einzahlung in den Tresor
+depositing_into_sodex_3mins,Einzahlung in SoDEX (~3 Minuten)
+depositing_to_slp_vault,Einzahlung in den SLP-Tresor
+depositing_to_sodex,Einzahlung bei SoDEX
+depositor,Einleger
+depositors,Einleger
+deposittransaction_amount_mag7_ssi_are_value2,{{depositTransaction_amount}} MAG7.ssi sind {{value2}}
+deposittransaction_amount_smag7_ssi_are_value2,{{depositTransaction_amount}} sMAG7.ssi sind {{value2}}
+en_us,en_US
+enable_depositing_to_slp_vault,Aktivieren Sie die Einzahlung in den SLP-Tresor
+estimated_time_of_arrival_of_funds,Geschätzte Ankunftszeit der Gelder
+formatecooldownamount_mag7_ssi_are_available_to,{{formateCoolDownAmount}} MAG7.ssi stehen zum Anspruch zur Verfügung
+formatecooldownamount_mag7_ssi_will_be_available,{{formateCoolDownAmount}} MAG7.ssi steht für Ansprüche am {{value2}} zur Verfügung.
+formatesmag7amount_smag7_ssi_base_are_available,{{formatesMag7Amount}} sMAG7.ssi (Basis) stehen zur Verfügung
+formatesmag7amount_smag7_ssi_valuechain_are_available,{{formatesMag7Amount}} sMAG7.ssi (ValueChain) stehen zur Verfügung
+get_mag7_ssi,Holen Sie sich MAG7.ssi
+initiating_a_new_withdrawal_at_this,"Wenn Sie zu diesem Zeitpunkt eine neue Auszahlung veranlassen, wird die Sperrfrist zurückgesetzt, die Sie am {{unlockTime}} in Anspruch nehmen können."
+join_me_to_earn_on_sodex,"Machen Sie mit und verdienen Sie bei SoDEX! Der SoDEX SLP Vault ist für Einzahlungen geöffnet! Gehören Sie zu den Ersten, die müheloses Yield Farming erleben. #DeFi #Krypto #SoDEX"
+max_displaybalance_tokendisplayname,Max: {{displayBalance}} {{tokenDisplayName}}
+minimum_deposit_is_minamount_tokendisplayname,Die Mindesteinzahlung beträgt {{minAmount}} {{tokenDisplayName}}.
+minimum_minimum,Mindestens {{_minimum}}
+minimum_minimum_usdc_claim_amount,Mindestens {{MINIMUM_USDC_CLAIM_AMOUNT}}
+minimum_minwithdrawamount,Mindestens {{minWithdrawAmount}}
+my_deposit,Meine Anzahlung
+my_position,Meine Position
+nav,NAV
+network_chain,Netzwerk (Kette)
+once_you_initiate_a_unstake_process,"Sobald Sie einen Aufhebungsprozess eingeleitet haben, können Sie MAG7.ssi nach einer 14-tägigen Sperrfrist auf Ihrem Spot-Konto beanspruchen."
+pnl,PNL
+processing,Verarbeitung
+rate,Rate
+redeem,Tilgen
+reference_performance,Referenzleistung
+retrying,Erneuter Versuch...
+show,Zeigen
+smag7_slp_is_the_only_credential,sMAG7.SLP ist die einzige Berechtigung zum Einlösen von sMAG7.ssi aus dem Tresor. Übertragen Sie es nicht auf eine andere Wallet. Bei Verlust übernehmen wir keine Haftung.
+sodex_liquidity_provider_slp,SoDEX-Liquiditätsanbieter (SLP)
+sodex_slp_vault,Sodex SLP-Tresor
+switch_to_base,Wechseln Sie zur Basis
+switch_to_valuechain,Wechseln Sie zu ValueChain
+the_server_is_busy_please_try,Der Server ist beschäftigt. Bitte versuchen Sie es nach ca. 10 bis ca. 15 Minuten erneut
+the_slp_vault_employs_active_trading,"Der SLP-Tresor verwendet aktive Handelsstrategien mit Marktrisiko. Die Rückgabe ist nicht garantiert und Ihre Einzahlung kann teilweise oder vollständig verloren gehen. Für Verluste wird kein Ersatz geleistet. Indem Sie fortfahren, akzeptieren und verstehen Sie diese Risiken."
+this_is_a_community_owned_sodex,"Dies ist ein gemeinschaftseigener SoDEX-Tresor. Seine Mittel werden verwendet, um mehrere Market-Making-Strategien auf SoDEX umzusetzen, liquidierte Positionen abzusichern/zu übernehmen und Plattformgebühren zu erheben."
+transaction_canceled,Transaktion abgebrochen
+transferring_to_evm_funding,Übergang zur EVM-Finanzierung
+unstake_failed,Die Aufhebung des Stakes ist fehlgeschlagen
+unstake_in_progress,Entstake in Bearbeitung
+unstake_to_mag7_ssi,Entstake zu MAG7.ssi
+value1_balance_account_value2_value3,{{value1}} Saldokonto: {{value2}} ( {{value3}} )
+value1_smag7_ssi,{{value1}} sMAG7.ssi
+value1_value2_smag7_ssi,{{value1}} {{value2}} sMAG7.ssi
+vault_depositing_will_auto_stake_mag7,Bei der Einzahlung in den Tresor wird MAG7.ssi automatisch auf sMAG7.ssi verpfändet.
+waiting_for_balance_sync_2mins,Warten auf Balance-Synchronisierung (~2 Min.)
+website,Webseite
+withdraw_from_slp_vault,Vom SLP-Tresor abheben
+withdraw_mag7_ssi_by_unstaking_smag7,"Entziehen Sie MAG7.ssi, indem Sie sMAG7.ssi aufheben. Nach einer 14-tägigen Sperrfrist können Sie MAG7.ssi auf Ihrem Spotkonto beanspruchen."
+withdraw_your_mag7_ssi_by_using,"Ziehen Sie Ihre MAG7.ssi zurück, indem Sie sMAG7.SLP als Anmeldeinformationen verwenden. Das MAG7.ssi wird Ihrem Spot-Konto gutgeschrieben."
+withdraw_your_smag7_ssi_by_using,"Ziehen Sie Ihr sMAG7.ssi zurück, indem Sie sMAG7.SLP als Anmeldeinformationen verwenden. Das sMAG7.ssi wird Ihrem EVM-Funding-Konto gutgeschrieben."
+withdrawals_require_unstaking_14_days_lock,"Abhebungen müssen aufgehoben werden (14-tägige Sperrfrist), um zu MAG7.ssi zurückzukehren."

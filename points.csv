@@ -1,0 +1,81 @@
+﻿key,value
+after_distribution_complete,"Nachdem die Verteilung abgeschlossen ist, können Sie die neu gesammelten Punkte der Vorwoche im Punkte-Dashboard einsehen."
+connect_to_deposit,Mit Einzahlung verbinden
+connect_to_invite,Mit „Einladen“ verbinden
+connect_to_trade,Stellen Sie eine Verbindung zum Handel her
+copied,Kopiert
+copy_image,Bild kopieren
+copy_link,Link kopieren
+deposit_now,Jetzt einzahlen
+deposit_vault_to_earn,"In Tresor einzahlen, um zu verdienen"
+distribution_time,Verteilungszeit:
+during_season_1_we_distribute_a,Während der ersten Staffel verteilen wir wöchentlich einen festen Betrag von 1.000.000 SoPoints.
+every_active_behavior_on_sodex_is,"Jedes aktive Verhalten auf SoDEX wird aufgezeichnet, einschließlich, aber nicht beschränkt auf, Handel, Empfehlungen, Tresor-Teilnahme und das Halten von Vermögenswerten. Insbesondere erhalten Sie einen zusätzlichen Bonus in Höhe von 25 % der Punkte, die die von Ihnen eingeladenen Freunde sammeln. Spezielle Punkteanreize werden jeden Montag um 12:00 Uhr (UTC) über unser offizielles X-Konto bekannt gegeben."
+every_monday_at_0_00_utc,Jeden Montag um 0:00 (UTC).
+every_tuesday_at_12_00_utc,Jeden Dienstag um 12:00 (UTC).
+from_1_5_billion_soso_ecosystem,150 Mio. SOSO vom SOSO Ecosystem Fund
+how_can_i_earn_points,Wie kann ich Punkte sammeln?
+how_can_i_provide_feedback_if,"Wie kann ich Feedback geben, wenn ich auf Probleme stoße?"
+how_long_will_season_1_last,Wie lange wird Staffel 1 dauern?
+image,Bild
+invite_friends,Freunde einladen
+invite_now,Jetzt einladen
+invite_to_earn,Zum Verdienen einladen
+learn_more,Erfahren Sie mehr
+link,Link
+live,Live
+max_level,Maximales Level
+my_futures_vol,Meine Futures Vol
+my_sopoints,MEINE SoPoints
+my_spot_vol,Mein Spot Vol
+my_vault_holdings,Meine Tresorbestände
+next_snapshot_in,Nächste Schnappschuss
+next_tier,Weiter: {{tier}}
+of_invitees_sopoints,der SoPoints der Eingeladenen
+rank_of_all_users,Rang {{rank}} aller Benutzer
+save,Speichern
+season_1_begins_on_february_1,Staffel 1 beginnt am 1. Februar 2026 um 12:00 Uhr (UTC) und wird voraussichtlich nicht länger als 6 Monate dauern. Wir werden mindestens zwei Wochen vor Ende der Veranstaltung eine offizielle Ankündigung veröffentlichen.
+share,Aktie
+share_achievement,Erfolg teilen
+share_achievement_text,Schauen Sie sich meinen SoPoints-Erfolg an! Begleiten Sie mich auf SoDex:
+share_on,Teilen auf
+share_telegram_text,"🏆 Ich habe die Stufe {{tier}} mit {{points}} SoPoints auf SoDEX erreicht!
+
+💰 Melden Sie sich jetzt an und verdienen Sie: {{url}}"
+share_twitter_text,"🏆 Ich habe die Stufe {{tier}} mit {{points}} SoPoints auf @sodex_official erreicht!
+
+💰 Melden Sie sich jetzt an und verdienen Sie:
+{{url}}"
+snapshot_time,Snapshot-Zeit:
+sodex_strictly_prohibits_any_form_of,"SoDEX verbietet strengstens jede Form von Sybil-Angriffen, Wash-Trading oder anderen Formen des Betrugs."
+sopoints,SoPoints
+sopoints_are_essential_metrics_used_to,"SoPoints sind wichtige Kennzahlen, die zur Aufzeichnung Ihrer frühen Beiträge zu SoDEX verwendet werden. Sie bestimmen direkt Ihre Zuteilung im zukünftigen $SOSO-Ökosystem-Airdrop."
+sopoints_share_fee_rebate,SoPoints-Anteil + Gebührenrückerstattung
+start_earning_points,"Fangen Sie an, Punkte zu sammeln"
+the_minimum_unit_for_distribution_is,"Die Mindesteinheit für die Verteilung ist 1 SoPoint. Wenn Ihr berechneter Punktestand basierend auf der wöchentlichen Aktivität aller Benutzer weniger als 1 beträgt, werden für diesen Zeitraum keine Punkte vergeben."
+this_means_that_if_the_number,"Das heißt, wenn die Anzahl der aktiven Händler auf der Plattform steigt, können sich die pro Person vergebenen Punkte entsprechend anpassen. Je früher Sie teilnehmen, desto größer ist Ihr Vorteil."
+tier,STUFE
+tier_bronze,Bronze
+tier_diamond,Diamant
+tier_epic,Episch
+tier_gold,Gold
+tier_iron,Eisen
+tier_silver,Silber
+to_be_determined,Zu bestimmen
+to_maintain_a_fair_and_sybil,"Um ein faires und Sybil-resistentes Handelsumfeld aufrechtzuerhalten, verwendet SoDEX ein dynamisches Punktegewichtungsmodell. Wir optimieren den Algorithmus wöchentlich basierend auf der Betriebsphase der Plattform, der Markttiefe und dem gesamten Benutzerverhalten der Vorwoche. Dadurch werden Bot-Angriffe effektiv verhindert und die Interessen echter Teilnehmer gewahrt."
+top_percentage_global_rank,Top <span>{{percentage}}%</span> Globaler Rang
+trade_now,Jetzt handeln
+up_to_value1_sopoints_week,Bis zu {{value1}} SoPoints/Woche
+vault_profit_sopoints_airdrop,Vault-Gewinn + SoPoints Airdrop
+view_my_points,Meine Punkte anzeigen
+week,Woche
+week_number,Woche {{number}}
+week_number_pool,Woche {{number}} Pool
+week_value1_is_live,Woche {{value1}} ist Live
+weekly_performance,Wöchentliche Leistung
+weekly_sopoints_pool,Wöchentlicher SoPoints-Pool
+what_are_sopoints_and_what_are,Was sind SoPoints und wozu dienen sie?
+when_will_i_receive_my_points,Wann erhalte ich meine Punkte?
+where_to_check,Wo Sie nachsehen können:
+why_haven_t_i_received_points,"Warum habe ich keine Punkte erhalten, nachdem ich gehandelt oder andere Aktionen durchgeführt habe?"
+you_can_contact_us_anytime_via,Sie können uns jederzeit über <0>Discord</0> kontaktieren oder direkt einen Fehlerbericht einreichen. Ihre Vorschläge sind für das Wachstum von SoDEX von entscheidender Bedeutung.

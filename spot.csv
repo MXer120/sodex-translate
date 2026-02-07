@@ -1,0 +1,630 @@
+﻿key,value
+2026_q1,2026.Q1
+24h_volume,24-Stunden-Volumen
+4_18_characters_only_a_z,"4–18 Zeichen, nur A–Z und 0–9. Sie können es einmal anpassen."
+accept,Akzeptieren
+account_information_here,Kontoinformationen hier
+add,Hinzufügen
+add_extra_funds_to_lower_liquidation,"Fügen Sie zusätzliche Mittel hinzu, um das Liquidationsrisiko zu senken, oder entfernen Sie die Marge für andere Geschäfte."
+add_network,Netzwerk hinzufügen
+add_valuechain,ValueChain hinzufügen
+advanced,Fortschrittlich
+all_cross_positions_share_the_same,Alle Cross-Positionen nutzen die gleiche Cross-Margin als Sicherheit. Im Falle einer Liquidation können Ihr Cross-Margin-Guthaben und alle verbleibenden offenen Positionen unter den Vermögenswerten in diesem Modus verfallen.
+all_reward_records,Alle Belohnungsaufzeichnungen
+an_aggregate_price_sourced_from_top,"Ein Gesamtpreis, der von Top-Spot-Börsen stammt, proportional nach Handelsvolumen gewichtet wird, um Manipulationsrisiken zu mindern, und zur Berechnung der Finanzierungssätze verwendet wird."
+and_click_connect_to_link_this,"und klicken Sie auf „Verbinden“, um dieses Wallet zu verknüpfen."
+apply_for_mainnet_early_bird,Bewerben Sie sich für Mainnet Early Bird
+approve_adding_valuechainstaging_testnet_on_mobile,Genehmigen Sie das Hinzufügen von ValueChainStaging Testnet auf Mobilgeräten
+approve_on_mobile,Auf Mobilgeräten genehmigen
+approve_qr_code_with_wallet,QR-Code mit Wallet genehmigen...
+approve_spending_cap_on_mobile,Genehmigen Sie die Ausgabenobergrenze für Mobilgeräte
+approve_your_wallet_address_to_use,"Genehmigen Sie Ihre Wallet-Adresse, um das SoDEX-Konto für den Handel zu verwenden. Nonce: {{nonce}}"
+approved_adding_valuechainstaging_testnet,"Genehmigt, ValueChainStaging Testnet hinzuzufügen"
+assets_overview,Vermögensübersicht
+authenticator_app_verification_added,Authentifizierungs-App-Verifizierung hinzugefügt
+available_to_trade,Zum Handel verfügbar
+avg_close_price,Durchschn. Schlusskurs
+avg_price,Durchschn. Preis:
+bestrank_th,{{bestRank}} th
+bitcoin_address,Bitcoin-Adresse
+block_hash,Hash blockieren
+boost_your_earnings_with,Steigern Sie Ihr Einkommen mit
+buy_long,Kaufen/Long
+cancel_all,Alles abbrechen
+cancellation_failed,Die Stornierung ist fehlgeschlagen
+cancellation_successful,Stornierung erfolgreich
+cannot_sign_with_api_wallet_switch,"Signieren mit API-Wallet nicht möglich. Wechseln Sie zum Desktop, um die Haupt-Wallet zum Signieren zu verbinden."
+cannot_switch_margin_mode_with_open,Der Randmodus kann bei geöffneter Position nicht umgeschaltet werden.
+cardano_address,Cardano-Adresse
+changed_leverage,Geänderte Hebelwirkung
+claim_failed_please_try_again,Anspruch gescheitert. Bitte versuchen Sie es erneut.
+claim_test_tokens,Fordern Sie Testtoken an
+claim_testnet_tokens,Fordern Sie Testnet-Tokens an
+claimed_referral_code_successfully,Empfehlungscode erfolgreich angefordert!
+claimed_successfully,Erfolgreich beansprucht
+claiming_in_progress,Anspruchserhebung läuft
+close_all,Alle schließen
+close_at_a_limit_price,Schließen Sie zu einem Grenzpreis
+close_at_a_market_price,Zum Marktpreis schließen
+close_position,Position schließen
+closed_alpha_referral_code,Closed-Alpha-Empfehlungscode
+closed_amount,Geschlossener Betrag
+closed_time,Geschlossene Zeit
+closing_pnl,PNL wird geschlossen
+coinsymbol_balance_account_value2_value3,{{coinSymbol}} Saldokonto: {{value2}} ( {{value3}} )
+configure_amount,Betrag konfigurieren
+confirm_limit_close,Bestätigen Sie das Schließen des Limits
+confirm_market_close,Bestätigen Sie den Marktschluss
+confirm_on_mobile,Auf dem Handy bestätigen
+connect,Verbinden
+control_the_leverage_used_for_basecoin,"Kontrollieren Sie den Hebel, der für {{baseCoin}} Positionen verwendet wird. Der maximale Hebel beträgt {{maxLeverage}} x."
+cookie,Plätzchen
+copied_to_clipboard,In die Zwischenablage kopiert
+create_a_referral_code_after_trading,Erstellen Sie nach dem Handel mit $ {{value1}} einen Empfehlungscode.
+create_my_code,Erstellen Sie meinen Code
+create_your_referral_code,Erstellen Sie Ihren Empfehlungscode
+creating,Erstellen...
+cross,Kreuzen
+cross_account_leverage,Kontoübergreifende Hebelwirkung
+cross_account_leverage_total_cross_positions,Cross-Account-Leverage = Gesamtwert der Cross-Positionen / Cross-Akzeptanz
+cross_margin_ratio,Cross-Margin-Verhältnis
+current_margin_for_symbol,Aktuelle Marge für {{_symbol}}
+current_position,Aktuelle Position
+customize_code,Passen Sie den Code an
+daily_test_tokens_claim,Anspruch auf tägliche Testtokens
+decline,Abfall
+delete_successfully,Erfolgreich löschen
+deposit_chain,Einzahlungskette
+deposit_confirming,Anzahlungsbestätigung.
+deposit_failed,Einzahlung fehlgeschlagen
+deposit_funds,Einzahlungsfonds
+deposit_history,Einzahlungsverlauf
+deposit_to_earn_more,"Zahlen Sie ein, um mehr zu verdienen"
+destination_address_is_required,Zieladresse ist erforderlich
+direction,Richtung
+displaysymbol_overview,{{displaySymbol}} Übersicht
+do_not_show_this_again,Dies nicht noch einmal anzeigen
+dogecoin_address,Dogecoin-Adresse
+don_t_show_this_again,Zeige das nicht noch einmal
+don_t_show_this_again_2,Zeigen Sie dies nicht noch einmal
+due_to_network_congestion_current_processing,*Aufgrund der Überlastung des Netzwerks werden die aktuellen Bearbeitungszeiten recht lange dauern.
+early_bird_apply,Frühbucherantrag
+earn,Verdienen
+earn_more_points_by_using_this,"Sammeln Sie mehr Punkte, indem Sie diesen Code verwenden."
+eligibility,Teilnahmeberechtigung
+enable,Aktivieren
+enable_confirmation_dialog_before_placing_orders,"Aktivieren Sie den Bestätigungsdialog, bevor Sie Bestellungen aufgeben"
+enroll_in_mfa,Melden Sie sich für MFA an
+enter,Eingeben
+enter_a_referral_code_and_earn,Geben Sie einen Empfehlungscode ein und sammeln Sie mehr Punkte.
+enter_a_referral_code_and_receive,Geben Sie einen Empfehlungscode ein und erhalten Sie zusätzliche 5 % Punkte.
+enter_my_code,Geben Sie meinen Code ein
+enter_referral_code,Geben Sie den Empfehlungscode ein
+enter_the_6_digit_password_shown,"Geben Sie das 6-stellige Passwort ein, das auf Ihrem Desktop angezeigt wird"
+enter_your_code,Geben Sie Ihren Code ein
+entry_price,Eintrittspreis
+estimated_gas_fee,Geschätzte Gasgebühr
+eth,eth
+evm_address,EVM-Adresse
+executed_value,Ausgeführter Wert
+export_email_wallet,E-Mail-Wallet exportieren
+external_account,Externes Konto
+failed_to_add_network,Netzwerk konnte nicht hinzugefügt werden
+failed_to_copy,Kopieren fehlgeschlagen
+failed_to_generate_qr_code_please,QR-Code konnte nicht generiert werden. Bitte versuchen Sie es erneut.
+failed_to_get_deposit_address_please,Die Einzahlungsadresse konnte nicht abgerufen werden. Bitte versuchen Sie es erneut.
+failed_to_get_nonce_please_try,Nonce konnte nicht abgerufen werden. Bitte versuchen Sie es erneut.
+failed_to_switch_network_please_try,Netzwerkwechsel fehlgeschlagen. Bitte versuchen Sie es erneut.
+false,FALSCH
+formatbuycoin_available,{{formatBuyCoin}} Verfügbar
+formatbuycoin_evm_funding,{{formatBuyCoin}} (EVM-Förderung)
+formatsellcoin_available,{{formatSellCoin}} Verfügbar
+formatsellcoin_evm_funding,{{formatSellCoin}} (EVM-Förderung)
+from_now_on_you_ll_use,"Von nun an verwenden Sie Ihre Authentifizierungs-App, wann immer Sie eine Transaktion abwickeln."
+fund_transfer,Geldtransfer
+funding_countdown,Finanzierung / Countdown
+funds_has_been_deposited_to_your,Das Geld wurde auf Ihr Spot-Konto eingezahlt
+futures_balance_not_enough,Der Futures-Saldo reicht nicht aus
+futures_balance_not_enough_desc,Der Mindestbetrag für Futures-Bestellungen beträgt {{amount}} USDC.
+futures_overview,Futures-Übersicht
+futures_trading_is_available_now,Der Futures-Handel ist jetzt verfügbar!
+get_your_testnet_tokens_to_spot,Holen Sie sich Ihre Testnet-Tokens zu Spot
+go_mainnet,Gehen Sie zum Mainnet
+got_it,Habe es
+hide_small_balances,Kleine Guthaben ausblenden
+hold_period,Haltezeitraum
+hold_to_reveal,Zum Enthüllen gedrückt halten
+hover_to_reveal,"Bewegen Sie den Mauszeiger, um es anzuzeigen"
+how_are_points_distributed,Wie werden die Punkte verteilt?
+how_do_i_earn_points_from,Wie kann ich bei dieser Veranstaltung Punkte sammeln?
+how_does_roi_get_calculated,Wie wird der ROI berechnet?
+i_understand,Ich verstehe:
+if_order_a_is_filled_orders,"Wenn Auftrag A ausgeführt wird, werden die Aufträge B und C aufgegeben"
+if_order_b_filled_cancel_order,"Wenn Auftrag B ausgeführt wurde, stornieren Sie Auftrag C"
+if_order_c_filled_cancel_order,"Wenn Auftrag C ausgeführt wurde, stornieren Sie Auftrag B"
+if_you_ve_already_submitted_the,"Wenn Sie das Bewerbungsformular bereits eingereicht haben, können Sie sicher sein, dass Sie sich in der Whitelist-Warteschlange befinden – wir erweitern den Zugang schrittweise jeden Montag um 12:00 Uhr UTC."
+if_you_ve_set_an_order,"Wenn Sie oben eine Ordergröße festgelegt haben, verwenden Ihre TP/SL-Orders immer genau diese Größe, unabhängig davon, wie sich Ihre Position später ändert."
+image_downloaded,Bild heruntergeladen
+initiated_at,Initiiert um
+insufficient_balance_please_deposit_funds_to,"Unzureichendes Gleichgewicht. Bitte zahlen Sie Geld ein, um mit dem Handel zu beginnen."
+insufficient_coin,unzureichend {{coin}}
+insufficient_funds,Unzureichende Mittel
+invalid_password_or_login_link_expired,Ungültiges Passwort oder Anmeldelink abgelaufen
+invite_only,Nur auf Einladung
+invite_to_sodex,Zu SoDEX einladen
+item_leverage_x,{{item_leverage}} x
+join_now,Jetzt beitreten
+join_sodex,Treten Sie SoDEX bei
+join_the_closed_alpha_by_using,"Treten Sie der Closed Alpha bei, indem Sie einen Einladungscode eines Benutzers auf der Whitelist verwenden."
+join_the_whitelist_by_using_an,"Treten Sie der Whitelist bei, indem Sie einen Einladungscode eines Benutzers auf der Whitelist verwenden."
+join_with_code_referralcode,Beitreten mit Code: {{referralCode}}
+joining,Beitritt...
+last_update,Letztes Update
+leaderboard_winner,LeaderBoard-Gewinner
+leverage_change_pending,Leverage-Änderung steht aus...
+limit,Limit
+limit_close_at_mid_price,Limit-Schließung zum mittleren Preis
+link_mobile_device,Mobilgerät verknüpfen
+liquidation_close_long,Liquidation: Long schließen
+liquidation_close_short,Liquidation: Short schließen
+liquidation_price,Liquidationspreis
+litecoin_address,Litecoin-Adresse
+loading_2,Laden...
+login_successful,Anmeldung erfolgreich!
+lucky_block_hash,Lucky Block Hash
+lucky_block_rewards,Glücksblock-Belohnungen
+mainnet_whitelist_apply,Mainnet-Whitelist anwenden
+maintenance_margin,Wartungsmarge
+maintenance_margin_portfolio_value_your_cross,"Wartungsmarge/Portfoliowert. Ihre Cross-Positionen werden liquidiert, wenn das Margin-Verhältnis 100 % erreicht."
+manage_your_risk_on_individual_positions,"Verwalten Sie Ihr Risiko für einzelne Positionen, indem Sie die Höhe der jeder einzelnen Position zugewiesenen Margin beschränken. Wenn die Margin-Quote einer isolierten Position 100 % erreicht, wird die Position liquidiert. In diesem Modus können Margen zu einzelnen Positionen hinzugefügt oder entfernt werden."
+margin_adjusted_successfully,Margenanpassung erfolgreich
+margin_available_to_add,Spielraum zum Hinzufügen verfügbar
+margin_available_to_remove,Rand zum Entfernen verfügbar
+margin_required,Marge erforderlich
+mark_price_is_used_to_estimate,Der Markpreis wird zur Schätzung des nicht realisierten PnL verwendet.
+market_price,Marktpreis
+max_amount_value1,Maximaler Betrag {{value1}}
+max_buy,Maximaler Kauf
+max_position_size_decreases_the_higher,"Die maximale Positionsgröße nimmt ab, je höher Ihr Leverage ist."
+max_sell,Max Sell
+memo,Memo
+minimum_minimum_usdc_order_amount,Mindestens {{MINIMUM_USDC_ORDER_AMOUNT}}
+minimum_minimum_usdc_order_balance,Mindestens {{MINIMUM_USDC_ORDER_BALANCE}}
+minimum_minimumamount,Mindestens {{minimumAmount}}
+minimum_minimumamount_value2,Mindestens {{minimumAmount}} {{value2}}
+my_reward_records,Meine Belohnungsaufzeichnungen
+name,Name
+need_4_18_characters_current_codevalue,Benötigt 4–18 Zeichen. Aktuell: {{codeValue_length}} Zeichen.
+need_to_close_current_position_to,"Die aktuelle Position muss geschlossen werden, um den Hebel anzupassen."
+need_to_deposit,Einzahlung erforderlich
+need_to_restore_your_usdc_value,Sie müssen Ihren USDC-Wert auf 0 oder höher zurücksetzen
+network_added,Netzwerk hinzugefügt
+network_addition_cancelled,Netzwerkhinzufügung abgebrochen
+network_switch_cancelled_by_user,Netzwerkwechsel vom Benutzer abgebrochen
+new_feature,✦ Neue Funktion!
+no_award_records_available,Keine Auszeichnungsaufzeichnungen verfügbar.
+no_coins_found,Keine Münzen gefunden
+no_memo_for_this_address,Kein Memo für diese Adresse
+no_records,Keine Aufzeichnungen
+no_remaining_quota_is_available_please,Es ist kein Restkontingent verfügbar. Bitte schließen Sie zunächst Ihre aktiven „Limit Orders“ unter „Offene Orders“.
+not_now,Nicht jetzt
+not_supported,Nicht unterstützt
+not_whitelisted_for_sodex_yet_don,"Noch nicht auf der Whitelist für SoDEX? Machen Sie sich keine Sorgen – Sie haben noch Zeit! Klicken Sie hier, um der Whitelist-Gruppe beizutreten und sich zu bewerben."
+note_that_setting_a_higher_leverage,"Beachten Sie, dass die Festlegung einer höheren Hebelwirkung das Liquidationsrisiko erhöht."
+note_use_4_18_characters_a,"Hinweis: Verwenden Sie 4–18 Zeichen (A–Z, 0–9)"
+officialaccount_sitting_at_bestranktext_on_the,{{officialAccount}} Sitzen bei {{bestRankText}} auf der {{topName}}-Bestenliste mit {{bestRankValString}} Treten Sie dem #SoDEX-Testnetz bei und teilen Sie den 1 Mio. $SOSO-Preispool {{value5}}
+ok_show_me_the_address,"OK, zeig mir die Adresse"
+on_record_chain,am {{record_chain}}
+once_you_have_claimed_your_test,"Sobald Sie Ihre Testtoken erfolgreich eingefordert haben, wird der Kontostand beim nächsten Block aktualisiert."
+ongoing_deposits,Laufende Einlagen
+only_letters_a_z_and_numbers,Es sind nur Buchstaben (A-Z) und Zahlen (0-9) zulässig.
+only_select_this_option_on_a,"Wählen Sie diese Option nur auf einem sicheren Gerät aus, das Ihnen gehört. „Remember Me“ speichert Ihren SoDEX-Authentifizierungsschlüssel lokal in Ihrem Browser. Beachten Sie, dass der SoDEX-Authentifizierungsschlüssel vom privaten Schlüssel Ihrer Brieftasche getrennt ist und immer in der Brieftasche verbleibt. Durch die Aktivierung von „Angemeldet bleiben“ auf einem öffentlichen Computer könnte Ihr SoDEX-Schlüssel für nicht autorisierte Benutzer zugänglich gemacht werden."
+open_a_channel_from_your_account,Öffnen Sie einen Kanal von Ihrem Konto zu SoDEX für gasfreien und sofortigen Handel.
+open_to_all_sodex,Offen für alle SoDEX
+open_to_early_bird,Offen für Frühbucher
+opened_time,Geöffnete Zeit
+opening_soon,Bald eröffnet
+opening_time_value1,Öffnungszeit: {{value1}}
+or,OR
+order_confirmation,Auftragsbestätigung
+order_n,Bestellen Sie {{n}}
+order_numbers_ordernumbers,Bestellnummern: ( {{orderNumbers}} )
+order_submitted,Bestellung eingereicht
+order_submitting,Auftragserteilung
+order_type,Auftragstyp
+order_value,Bestellwert
+other_chains_coming_soon,Weitere Ketten kommen bald...
+other_wallet,Andere Geldbörse
+overlay,Überlagerung
+overview_aave_intro,"AAVE ist ein dezentrales, quelloffenes und nicht verwahrtes Liquiditätsprotokoll, das auf Ethereum basiert und es Benutzern ermöglicht, digitale Vermögenswerte zu verleihen, zu leihen und Zinsen zu verdienen. Ursprünglich als ETHLend im Jahr 2017 von Stani Kulechov ins Leben gerufen, wurde es im Jahr 2020 in AAVE umbenannt. Das Hauptmerkmal des Protokolls sind seine Liquiditätspools, in denen Benutzer Kryptowährungen hinterlegen, um Zinsen zu verdienen, während Kreditnehmer ihre Vermögenswerte als Sicherheit für den Erhalt von Krediten verwenden.
+
+Eines der innovativsten Tools von AAVE sind Flash-Kredite, die unbesicherte Kredite ermöglichen, die im Rahmen derselben Transaktion zurückgezahlt werden müssen, was für Arbitrage-Möglichkeiten und den Austausch von Sicherheiten beliebt ist. AAVE unterstützt auch die Kreditdelegierung, bei der Benutzer mit Sicherheiten ihre Kreditbefugnis an andere Benutzer delegieren können, wodurch vertrauenswürdige Kreditmärkte entstehen.
+
+Der native AAVE-Token erfüllt mehrere Funktionen, darunter die Governance für die Abstimmung über AAVE Improvement Proposals (AIPs), das Abstecken zur Sicherung der Plattform und das Verdienen von Belohnungen.
+
+Im Juli 2023 führte AAVE GHO ein, einen dezentralen Stablecoin, den Benutzer durch Überbesicherung ihrer Vermögenswerte prägen können. Bis Oktober 2024 entwickelt sich AAVE mit der kommenden Aave V4 weiter, die Funktionen wie automatisiertes Treasury-Management, eine neue Liquidations-Engine und eine tiefere GHO-Integration einführen wird. Die Plattform bleibt mit einem erheblichen Total Value Locked (TVL) führend im DeFi-Bereich.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_aave_intro_title,AAVE INTRO
+overview_aave_title,Über Aave
+overview_ada_intro,"Cardano (ADA) wird oft als „Blockchain der dritten Generation“ bezeichnet. Die erste Generation, Bitcoin, basiert auf einem Proof-of-Work-Modell und wird hauptsächlich als Wertaufbewahrungsmittel verwendet. Die zweite Generation, Ethereum, führte intelligente Verträge ein, war jedoch mit Einschränkungen in der Skalierbarkeit konfrontiert. Aufbauend auf diesen beiden verbessert Cardano die Blockchain-Architektur und die Konsensmechanismen, um Probleme wie Skalierbarkeit, Interoperabilität und Nachhaltigkeit anzugehen.
+
+Die einzigartige zweischichtige Architektur von Cardano trennt das Hauptbuch der Kontowerte von den dahinter stehenden Vorgängen. Diese Struktur verbessert die Flexibilität und Skalierbarkeit intelligenter Verträge. Der Cardano Settlement Layer (CSL) wird für die Übertragung von ADA, der nativen Kryptowährung von Cardano, verwendet, während der Cardano Computation Layer (CCL) die Ausführung intelligenter Verträge übernimmt und so effizientere Transaktionen gewährleistet.
+
+Cardano führte außerdem Ouroboros ein, den ersten nachweislich sicheren Proof-of-Stake (PoS)-Algorithmus. Es ist das erste Blockchain-Protokoll, das auf von Experten begutachteter akademischer Forschung basiert, ein entscheidendes Merkmal, das Cardano von anderen Blockchains unterscheidet.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_ada_intro_title,CARDANO-INTRO
+overview_ada_title,Über Cardano
+overview_bnb_intro,"BNB hat die höchste Marktkapitalisierung bei CEX-Tokens. Es wird von Binance erstellt, einem der weltweit führenden Kryptowährungsbörsen. BNB wurde 2017 eingeführt und war ursprünglich ein ERC-20-Token auf der Ethereum-Blockchain, wurde jedoch 2019 auf die proprietäre Blockchain von Binance, Binance Chain, migriert.
+
+BNB ist aufgrund seines Nutzens und seiner Integration in die Binance-Plattform einzigartig. Benutzer können BNB verwenden, um Handelsgebühren an der Börse zu bezahlen, an Token-Verkäufen auf Binance Launchpad teilzunehmen und Zahlungen im Geschäft dort zu tätigen, wo es akzeptiert wird.
+
+Darüber hinaus ist BNB der native Token von Binance Smart Chain (BSC), einer Blockchain-Plattform zur Entwicklung dezentraler Anwendungen (DApps) und DeFi-Protokolle.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_bnb_intro_title,BINANCE-MÜNZEN-EINFÜHRUNG
+overview_bnb_title,Über Binance Coin
+overview_btc_intro,"Bitcoin (BTC) ist ein Peer-to-Peer-Digitalwert, der ohne eine zentrale Behörde funktioniert. Transaktionen werden von den Teilnehmern des Netzwerks mithilfe kryptografischer Methoden validiert und einem öffentlich zugänglichen Hauptbuch, der sogenannten Blockchain, hinzugefügt. Dieser als Mining bezeichnete Validierungsprozess sichert das Netzwerk. Ungefähr alle 10 Minuten wird dem Miner, der den nächsten Block entdeckt, vom Netzwerk gestattet, alle Transaktionsgebühren aus den im Block enthaltenen Transaktionen sowie eine feste Blockbelohnung für neu ausgegebene Bitcoins einzufordern.
+
+Das Konzept von Bitcoin wurde 2008 von einem unbekannten Schöpfer oder einer Gruppe unter dem Pseudonym Satoshi Nakamoto eingeführt. Es wurde 2009 mit der Veröffentlichung der ersten Open-Source-Softwareimplementierung in Betrieb genommen. Der Begriff „Bitcoin“ selbst wurde in einem am 31. Oktober 2008 veröffentlichten Whitepaper beschrieben: https://bitcoin.org/bitcoin.pdf"
+overview_btc_intro_title,BITCOIN-EINFÜHRUNG
+overview_btc_qa,"Entdecken Sie die Tokenomics von Bitcoin (BTC) und sehen Sie sich die Projektdetails unten an.
+
+Wie hoch ist die Zuteilung für Bitcoin (BTC)?
+Die Bitcoin-Verteilung, auch Mining genannt, erfolgt über einen dezentralen Prozess, bei dem neu generierte Coins an den Miner vergeben werden, der einen neuen Block erfolgreich validiert. Bitcoin hat keine vordefinierte Zuordnung. Spekulationen über „Satoshis Bitcoin-Holding“ halten sich aufgrund des angeblich frühen Minings weiterhin, ein konkreter Eigentumsnachweis bleibt jedoch aus. Alle geschürften Bitcoins gelten als genutzt, mit Ausnahme bestimmter Adressen, die nachweislich nicht zugänglich sind, sogenannte „verbrannte“ Bitcoin-Adressen.
+
+Wie sieht der Lieferplan für Bitcoin (BTC) aus?
+Der Bitcoin-Vorrat ist so programmiert, dass er eine feste Obergrenze von 21.000.000 Münzen hat, die jemals geschürft werden. Am 3. Januar 2009 startete das Bitcoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 210.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war. Dieser als „Halbierung“ bezeichnete Prozess bedeutet, dass die Belohnungen für Miner halbiert werden. Dies wird alle 210.000 Blöcke so lange passieren, bis alle 21 Millionen Bitcoins erstellt wurden, was voraussichtlich um das Jahr 2142 herum der Fall sein wird. Sobald diese 21 Millionen Bitcoins hergestellt sind, wird es keine neuen mehr geben. Von da an verdienen die Miner Geld mit den für Transaktionen gezahlten Gebühren."
+overview_btc_qa_title,Fragen und Antworten zu Bitcoin Tokenomics
+overview_btc_title,Über Bitcoin
+overview_doge_intro,"Dogecoin, oft an seinem Shiba-Inu-Hundelogo zu erkennen, ist die wertvollste Meme-Münze auf dem Kryptomarkt. Es wurde ursprünglich als Scherz im Jahr 2013 von den Softwareentwicklern Billy Markus und Jackson Palmer erstellt.
+
+Dogecoin arbeitet in einem dezentralen Peer-to-Peer-Netzwerk, ähnlich wie Bitcoin, jedoch mit einigen wesentlichen Unterschieden. Es verwendet einen Scrypt-Algorithmus, der es weniger anfällig für die von Bitcoin-Minern verwendete Hochgeschwindigkeitshardware macht. Eines der charakteristischen Merkmale von Dogecoin ist sein unbegrenztes Angebot. Im Gegensatz zu Bitcoin, das eine Obergrenze von 21 Millionen Münzen hat, gibt es keine Höchstgrenze für die Anzahl der Dogecoins, die geschürft werden können. Dieser inflationäre Charakter macht es weniger wahrscheinlich, dass Dogecoin gehortet und eher ausgegeben wird, was zu seiner Verwendung als „Trinkgeld“-Währung im Internet beiträgt.
+
+Die Popularität von Dogecoin stieg im Jahr 2021 sprunghaft an, was vor allem auf die Unterstützung hochkarätiger Persönlichkeiten wie Elon Musk und Mark Cuban zurückzuführen ist. Bisher erwähnt Musk Dogecoin weiterhin in vielen Beiträgen. Beispielsweise ersetzte Musk im April 2023 das „Blue Bird“-Logo von Twitter durch das Shiba Inu-Logo, was zu einem deutlichen Preisanstieg für Dogecoin führte. Im September 2024 sorgte Musk erneut für Aufsehen, als er auf X (ehemals Twitter) über ein fiktives „Department of Government Efficiency (DOGE)“ postete, was zu einem kurzfristigen Preisanstieg von rund 7 % führte. Sein Engagement spielt weiterhin eine entscheidende Rolle bei den Marktbewegungen von Dogecoin.
+
+Neben Musks Einfluss war auch die Dogecoin Foundation aktiv und führte 2024 das Cardinals-Protokoll ein, um die Skalierbarkeit und Funktionalität innerhalb des Dogecoin-Ökosystems zu verbessern. Dieses Protokoll ermöglicht neue Funktionen wie Transaktionsbündelung und reduzierte Gebühren, die den Nutzen von Dogecoin über einfache Peer-to-Peer-Zahlungen hinaus auf den Bereich DeFi (dezentrale Finanzierung) erweitern könnten.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_doge_intro_title,DOGECOIN-EINFÜHRUNG
+overview_doge_title,Über Dogecoin
+overview_eth_intro,"ETH ist ein digitaler Vermögenswert, der in einem dezentralen Blockchain-Netzwerk betrieben wird, das intelligente Verträge und dezentrale Anwendungen unterstützen soll. Transaktionen, an denen die ETH beteiligt ist, werden von Netzwerkteilnehmern mithilfe kryptografischer Methoden überprüft, um Genauigkeit und Sicherheit zu gewährleisten. Nach der Bestätigung werden diese Transaktionen in einem öffentlichen verteilten Hauptbuch, der sogenannten Blockchain, aufgezeichnet. Der Prozess der Validierung von Transaktionen und des Hinzufügens neuer Blöcke, der im Rahmen eines Proof-of-Stake-Systems als Abstecken bezeichnet wird, belohnt Validatoren, die erfolgreich neue Blöcke vorschlagen und bestätigen. In regelmäßigen Abständen gestattet das Netzwerk Validatoren, Transaktionsgebühren zu erheben und neu geschaffene ETH als protokolldefinierte Belohnungen auszugeben.
+
+ETH wurde 2015 von Vitalik Buterin und der Ethereum-Entwicklergemeinschaft eingeführt. Sein Zweck, sein technisches Design und seine Vision wurden erstmals im 2014 veröffentlichten Ethereum-Whitepaper beschrieben, das den Grundstein für eine programmierbare Blockchain-Plattform legte."
+overview_eth_intro_title,ETHEREUM-INTRO
+overview_eth_title,Über Ethereum
+overview_hype_intro,"Hyperliquid (HYPE) ist eine leistungsstarke Layer 1 (L1)-Blockchain, die von Grund auf optimiert wurde, um ein vollständig integriertes, offenes Finanzsystem zu unterstützen. Hyperliquid wurde entwickelt, um vom Benutzer erstellte Anwendungen zu ermöglichen, die mit nativen, leistungsstarken Komponenten interagieren. Dabei legt Hyperliquid Wert auf Skalierbarkeit und Benutzererfahrung. Die Vision der Plattform besteht darin, ein dezentrales Ökosystem zu schaffen, in dem jede Finanztransaktion, einschließlich Bestellungen, Stornierungen, Trades und Liquidationen, transparent in der Kette mit einer Latenzzeit von weniger als einer Sekunde erfolgt.
+
+Die Hyperliquid L1-Blockchain ist für die Verarbeitung von bis zu 100.000 Bestellungen pro Sekunde ausgelegt und eignet sich daher für eine Vielzahl erlaubnisfreier Finanzanwendungen. Die Kette nutzt einen benutzerdefinierten Konsensalgorithmus namens HyperBFT, der von Hotstuff und seinen Nachfolgern inspiriert ist, sowie einen Netzwerk-Stack, der speziell für Hochleistungsoperationen optimiert wurde.
+
+Die Flaggschiff-Anwendung, die auf Hyperliquid basiert, ist Hyperliquid DEX, eine vollständig in die Kette integrierte Orderbuch-Perpetuals-Börse. Diese Börse bietet Benutzern umfassende Liquidität und eine Ausführung mit geringer Latenz für fortgeschrittene Handelsstrategien. Zukünftige Entwicklungen für die Plattform umfassen einen nativen Token-Standard, Spot-Handel und erlaubnislose Liquidität, wodurch das Ökosystem weiter ausgebaut wird und es zu einem leistungsstarken Tool für DeFi-Enthusiasten wird.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_hype_intro_title,HYPERLIQUID-INTRO
+overview_hype_title,Über Hyperliquid
+overview_link_intro,"LINK, die Abkürzung für Chainlink, ist das erste dezentrale Oracle-Netzwerk, das es jedem ermöglicht, Smart Contracts sicher Zugriff auf kritische externe Daten, Off-Chain-Zahlungen und alle anderen API-Funktionen zu gewähren. Sein Zweck besteht darin, intelligente Verträge mit externen Datenquellen und realen Informationen zu verbinden.
+
+Chainlink nutzt ein verteiltes Netzwerk von Knoten, um Datendienste bereitzustellen. Diese Knoten, sogenannte On-Chain-Knoten, sind dafür verantwortlich, Daten aus externen Datenquellen abzurufen und an Smart Contracts zu übermitteln. Datenvalidierungs- und Konsensmechanismen zwischen den Knoten gewährleisten die Genauigkeit und Sicherheit der Daten.
+
+Der LINK-Token wird zur Bezahlung der von On-Chain-Knoten bereitgestellten Dienste verwendet. Knoten sperren eine bestimmte Menge an LINK, um Datendienste anzubieten und entsprechende Belohnungen zu erhalten. Darüber hinaus wird der LINK-Token auch für die On-Chain-Governance verwendet, bei der Inhaber an der Entscheidungsfindung und Abstimmung über Vorschläge innerhalb des Chainlink-Netzwerks teilnehmen können.
+
+Das Chainlink-Projekt wurde 2014 von Sergey Nazarov und Steve Ellis mitbegründet. Das Chainlink-Mainnet wurde im Mai 2019 offiziell gestartet. Derzeit arbeitet Chainlink mit Google Cloud und Amazon Web Services zusammen. Chainlink-Dienste sind in die Google Cloud Platform und die Google Cloud Platform integriert."
+overview_link_intro_title,CHAINLINK-EINFÜHRUNG
+overview_link_qa,"Entdecken Sie die Tokenomics von Chainlink (LINK) und sehen Sie sich die Projektdetails unten an.
+
+Wie hoch ist die Zuteilung für Chainlink (LINK)?
+- 35 % wurden für den öffentlichen Token-Verkauf bereitgestellt
+- 35 % wurden Node Operators & Ecosystem zugewiesen
+- 30 % wurden dem Unternehmen zugewiesen
+
+Wie sieht der Lieferplan für Chainlink (LINK) aus?
+Die Wirtschaftsstruktur von Chainlink basiert auf dem LINK-Token, der zum Betrieb verschiedener Oracle-Dienste verwendet wird, die von Smart-Contract-Entwicklern und Web2-Systemen benötigt werden. LINK fungiert auch als Belohnung für die korrekte Ausführung von Oracle-Diensten. Die Angebotsseite umfasst die Einführung und Verbesserung von Oracle-Diensten, um die Nutzung von Chainlink-fähigen Smart Contracts und Web2-Systemen zu fördern. Andererseits zahlen Benutzer in LINK, um auf Oracle-Dienste zuzugreifen. Trotz der Bemühungen von Chainlink, so dezentral wie möglich zu sein, wurde es dafür kritisiert, dass es auf eine kleine Anzahl vertrauenswürdiger Knotenpunkte angewiesen ist. Ziel des LINK-Einsatzes ist es jedoch, dieses Problem zu lösen."
+overview_link_qa_title,Fragen und Antworten zu Chainlink Tokenomics
+overview_link_title,Über Chainlink
+overview_ltc_intro,"Litecoin (LTC), oft als das Silber zum Gold von Bitcoin bezeichnet, ist eine Peer-to-Peer-Kryptowährung, die 2011 von Charlie Lee, einem ehemaligen Google-Ingenieur, entwickelt wurde. Es war einer der ersten Altcoins und wurde entwickelt, um die Technologie von Bitcoin durch schnellere Transaktionszeiten, niedrigere Gebühren und einen demokratischeren Mining-Prozess zu verbessern.
+
+Litecoin arbeitet in einem dezentralen globalen Open-Source-Zahlungsnetzwerk, das „Scrypt“ als Arbeitsnachweis verwendet. Dieser Algorithmus kann mit Hilfe von CPUs der Verbraucherklasse dekodiert werden. Während Bitcoin den SHA-256-Hashing-Algorithmus verwendet, der erhebliche Rechenleistung erfordert, verwendet Litecoin den speicherintensiven Scrypt-Algorithmus. Dieser Unterschied macht Litecoin für Benutzer zugänglicher, die die Kryptowährung mit ihren PCs schürfen möchten.
+
+Am 2. August 2023 schloss Litecoin seine dritte Blockbelohnung bei einer Blockhöhe von 2520000 ab, wobei die aktuelle Blockbelohnung nun bei 6,25 LTC liegt.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_ltc_intro_title,LITECOIN-EINFÜHRUNG
+overview_ltc_qa,"Entdecken Sie die Tokenomics von Litecoin (LTC) und sehen Sie sich die Projektdetails unten an.
+
+Wie sieht der Zuteilungs- und Lieferplan für Litecoin (LTC) aus?
+Der Vorrat an Litecoin ist auf eine feste Obergrenze von 84.000.000 Münzen programmiert, die jemals geschürft werden. Am 7. Oktober 2011 startete das Litecoin-Netzwerk mit dem sogenannten Genesis-Block. Miner, die Transaktionen validieren, erhielten früher eine volle Belohnung für alle 840.000 verarbeiteten Blöcke, was etwa alle vier Jahre der Fall war.
+
+Etwa 500.000 LTC wurden am ersten Tag nach dem Mining des LTC-Genesis-Blocks instaminiert, und Charlie Lee und vermutlich andere frühe Litecoin-Entwickler gehörten zu den ersten Minern. Dennoch erhalten Litecoin-Entwickler oder Charlie Lee als fair verteiltes Asset keine direkten Gewinne aus dem Betrieb von Litecoin – abgesehen von dem, was sie im Rahmen des regulären Mining-Prozesses verdienen könnten.
+
+Dieser als „Halbierung“ bezeichnete Prozess bedeutet, dass die Belohnungen für Miner halbiert werden. Dies wird weiterhin alle 840.000 Blöcke geschehen, bis alle 84 Millionen Litecoins erstellt wurden, was voraussichtlich um das Jahr 2142 herum der Fall sein wird. Sobald diese 84 Millionen Litecoins erstellt sind, wird es keine neuen mehr geben. Von da an verdienen die Miner Geld mit den für Transaktionen gezahlten Gebühren."
+overview_ltc_qa_title,Fragen und Antworten zu Litecoin Tokenomics
+overview_ltc_title,Über Litecoin
+overview_mag7ssi_intro,"MAG7.SSI ​​ist ein von SoSoValue entwickeltes Flaggschiff-Investmentprodukt, das darauf ausgelegt ist, systematische β-Renditen in der Kryptoindustrie zu erzielen, indem es einen starken gesellschaftlichen Konsens, reichlich Liquidität und eine hohe Risikoresistenz nutzt. Das Portfolio umfasst 7 Top-Token nach Marktkapitalisierung und bietet ein diversifiziertes Engagement in den robustesten und einflussreichsten Vermögenswerten im Kryptobereich.
+
+Hauptmerkmale:
+
+Strategische Allokation: Eine anfängliche Allokation mit gleicher Gewichtung von 10 % bietet ein sinnvolles Engagement in zweitrangigen Marktführern jenseits von Bitcoin und Ethereum und ermöglicht es Anlegern, in den nächsten vier Jahren potenzielles Wachstum aus aufstrebenden Token mit einer Marktkapitalisierung von 100 Milliarden US-Dollar zu erzielen.
+
+Ausgewogene Strategie: MAG7.SSI ​​stellt sicher, dass Anleger grundlegende Erträge aus etablierten Kryptomärkten erzielen und bietet gleichzeitig die Möglichkeit, vom Aufstieg neuer Branchenführer zu profitieren.
+
+Dynamisches Rebalancing: Das Portfolio nutzt einen monatlichen Rebalancing-Mechanismus mit Puffereinstellung, der die rechtzeitige Einbeziehung aufstrebender Marktführer ermöglicht und gleichzeitig die durch häufige Rebalancing verursachten Transaktionsreibungen minimiert.
+
+Als Flaggschiff-Krypto-Investmentprodukt von SoSoValue bietet MAG7.SSI ​​einen doppelten Vorteil: langfristige Grundrenditen und Möglichkeiten, überschüssige Gewinne in der sich ständig weiterentwickelnden Krypto-Landschaft zu erzielen, was es Anlegern ermöglicht, in dieser dynamischen Branche an der Spitze zu bleiben."
+overview_mag7ssi_intro_title,MAG7.SSI ​​INTRO
+overview_mag7ssi_title,Über MAG7.ssi
+overview_sol_intro,"Solana (SOL) ist eine leistungsstarke Open-Source-Blockchain-Plattform. Solana wurde 2017 von Anatoly Yakovenko, einem ehemaligen Qualcomm-Ingenieur, gegründet und zielt darauf ab, die Skalierbarkeit der Blockchain mithilfe eines neuartigen Zeitstempelsystems namens Proof of History (PoH) zu verbessern. Im Gegensatz zu herkömmlichen Blockchains, die auf Proof-of-Work- oder Proof-of-Stake-Konsensmechanismen basieren, ermöglicht Solanas PoH eine höhere Geschwindigkeit und Effizienz. Solanas native Kryptowährung SOL wird für Transaktionsgebühren und Einsätze in seinem Netzwerk verwendet. Es dient auch als Governance-Token und ermöglicht es den Inhabern, über Änderungen am Netzwerkprotokoll abzustimmen.
+
+Obwohl Solana anfangs als „Ethereum-Killer“ bezeichnet wurde und eine hervorragende Leistung erbrachte, erlebte es viele Ausfallzeiten, die jedes Mal zu einem deutlichen Rückgang des Token-Preises führten. Darüber hinaus ist im November 2022 mit dem Zusammenbruch von FTX auch Solana, ein von FTX Ventures und Alameda investiertes Projekt, das sich am ökologischen Bauen beteiligt, stark betroffen.
+
+Darüber hinaus reichte die SEC im Juni 2023 Klagen gegen Binance und Coinbase ein, in denen der SOL-Token in beiden Fällen als Wertpapier definiert wurde. Obwohl sich der Liquiditätseinsatz im Solana-Ökosystem in letzter Zeit stark entwickelt hat, ist seine Marktkapitalisierung noch weit vom historischen Höchststand entfernt.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_sol_intro_title,SOLANA INTRO
+overview_sol_title,Über Solana
+overview_soso_intro,"SoSoValue ist eine KI-gesteuerte All-in-One-Krypto-Finanzdienstleistungsplattform mit zig Millionen Nutzern weltweit. Geleitet von der Mission, „Kryptoinvestitionen für jedermann zugänglich zu machen“, nutzt SoSoValue KI, um Marktgeräusche zu filtern, Alpha-Chancen zu identifizieren und eine effiziente Risikopreisgestaltung für Anleger zu ermöglichen.
+
+Die Plattform bietet drei Kerndienste, um die Masseneinführung von Krypto-Assets zu ermöglichen:
+1. Ein KI-gestütztes Investment-Research-Terminal, das Kryptomärkte leicht verständlich macht;
+2. SSI, eine sichere und benutzerfreundliche On-Chain-Lösung für passive Indexinvestitionen;
+3. SoDEX, eine leistungsstarke dezentrale Handelskette mit geringer Latenz, die ein nahtloses Handelserlebnis bietet.
+
+Ziel von SoSoValue ist es, die institutionelle Strenge des traditionellen Finanzwesens tiefgreifend mit der radikalen Transparenz von Web3 zu verbinden und es alltäglichen Benutzern zu ermöglichen, durch die durch die Kryptotechnologie ausgelöste Finanzrevolution auf einfache, faire und erlaubnislose Weise an der globalen Kernvermögensallokation teilzunehmen.
+
+$SOSO ist der native Plattform-Token von SoSoValue und dient auch als nativer Gas- und Governance-Token seines inkubierten Hochleistungs-Layer-1-Mainnets ValueChain.
+
+$SOSO ist an mehreren zentralen Börsen notiert, darunter SoDEX, Kraken, Bybit und Bitvavo, und wird in drei öffentlichen Blockchains eingesetzt und zirkuliert aktiv: ValueChain, Ethereum und Base."
+overview_soso_intro_title,SOSOVALUE INTRO
+overview_soso_qa,"Entdecken Sie die Tokenomics von SoSoValue (SOSO) und sehen Sie sich die Projektdetails unten an.
+
+Wie hoch ist die Zuteilung für SoSoValue (SOSO)?
+- Hauptbeitragende (33 %): Wird dem SoSoValue-Team und den Beratern zugewiesen, die zur Produktentwicklung und zum Wachstum des Ökosystems beitragen.
+- Partner (3,5 %): Wird strategischen Partnern zugewiesen, die die langfristige Entwicklung des SoSoValue-Ökosystems unterstützen.
+- Stiftung (17 %): Widmet sich Initiativen, die das Wachstum, die Akzeptanz und die Infrastruktur von SoSoValue fördern.
+- Ökosystem und Airdrop (30 %): Unterstützt das Ökosystemwachstum und die Benutzereinbindung.
+- Investoren (16,5 %): Wird Investoren zugeteilt, die die Entwicklung und Einführung von SoSoValue unterstützen.
+
+Wie sieht der Lieferplan für SoSoValue (SOSO) aus?
+- Kernbeitragende: 18-monatige Klippe, 36-monatige lineare monatliche Sperrfrist.
+- Partner: 18-monatiges Cliff, 36-monatige lineare monatliche Sperrfrist.
+- Stiftung: 15 % bei TGE freigegeben, 60-monatige lineare monatliche Sperrfrist.
+- Ökosystem und Airdrop: 15 % werden bei TGE freigegeben, 60 Monate lineare monatliche Sperrfrist.
+- Anleger: 12-monatiges Cliff, 18-monatige lineare monatliche Sperrfrist."
+overview_soso_qa_title,Fragen und Antworten zu SoSoValue Tokenomics
+overview_soso_title,Über SoSoValue
+overview_uni_intro,"Uniswap ist das erste dezentrale Token-Austauschprotokoll, das auf Ethereum basiert und es Benutzern ermöglicht, Token direkt auszutauschen, ohne auf eine zentrale Börse angewiesen zu sein. Das Protokoll nutzt Liquiditätsanbieter (LPs), die Token in Liquiditätspools einzahlen. Der Handel mit Token-Paaren wird durch automatisierte Market Maker (AMM) erleichtert, und LPs erhalten als Gegenleistung für die Bereitstellung von Liquidität Transaktionsgebühren. Jeder ERC-20-Token kann bei Uniswap gelistet werden, solange ausreichend Liquidität vorhanden ist.
+
+Uniswap wurde 2018 von Hayden Adams ins Leben gerufen und hat sich zur größten und beliebtesten dezentralen Börse entwickelt. Es hat ein Handelsvolumen von mehr als 2 Billionen US-Dollar ermöglicht und über 250 Millionen Transaktionen aufgezeichnet. Während des DeFi-Booms 2021 übertraf Uniswap sogar Coinbase beim Handelsvolumen und verarbeitet regelmäßig Milliarden an wöchentlichen Handelsvolumina bei Ethereum, Polygon, Arbitrum und Optimism.
+
+Im Jahr 2023 führte Uniswap Uniswap V4 ein, das mehrere bedeutende Verbesserungen mit sich brachte: Hooks, die es Entwicklern ermöglichen, AMM-Pools mit dynamischen Gebühren anzupassen; Singleton Architecture reduziert die Gasgebühren für die Poolerstellung um bis zu 99 %; Native ETH-Unterstützung spart Benutzern Benzingebühren; und das UniswapX-Protokoll gewährleisten die bestmöglichen Preise für Benutzer.
+
+Im April 2024 erhielt Uniswap eine Wells-Mitteilung der SEC, in der auf mögliche rechtliche Schritte hingewiesen wurde. Uniswap hat die Maßnahmen der SEC scharf angefochten und argumentiert, dass ihr dezentrales Protokoll nicht den aktuellen rechtlichen Definitionen einer Börse oder eines Broker-Dealers entspreche.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_uni_intro_title,UNISWAP-INTRO
+overview_uni_title,Über Uniswap
+overview_xaut_intro,"Tether Gold (XAUT) ist ein Gold-Stablecoin. Jeder XAUT-Token repräsentiert 1 Unze Gold, das in London geliefert werden kann.
+
+Tether Gold ist ein Gold-Stablecoin, der am 23. Februar 2020 von TG Commodities Limited eingeführt wurde. Paul Adoino, Chief Technology Officer von Tether, sagte in einem Interview: „Diejenigen, die Tether Gold besitzen, suchen nach den inhärenten Vorteilen von Gold als Wertaufbewahrungsmittel sowie nach anderen wünschenswerten Merkmalen der Tokenisierung.“
+
+Jeder XAUt repräsentiert den Besitz einer Feinunze physischen Goldes in einem bestimmten Goldbarren. Daher erhält der Inhaber unteilbares Eigentum am Gold des angegebenen Goldbarrens. Das zugeteilte Gold ist durch eine eindeutige Seriennummer, Reinheit und Gewicht identifizierbar. XAUt-Inhaber können sich jederzeit über die Look-up-Website nach den Details des Goldbarrens im Zusammenhang mit ihrer Adresse erkundigen.
+
+XAUt kann als ERC-20-Token auf der Ethereum-Blockchain verwendet werden. Token können jederzeit und überall problemlos gehandelt oder verschoben werden. Inhaber von XAUt können einen Rücknahmeantrag in Form von physischem Gold stellen, sofern der Inhaber den Verifizierungsprozess von TG Commodities Ltd abgeschlossen hat und über den erforderlichen Mindestbetrag an XAUt verfügt.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_xaut_intro_title,TETHER GOLD EINFÜHRUNG
+overview_xaut_title,Über Tether Gold
+overview_xrp_intro,"Ripple (XRP) ist das weltweit erste offene Zahlungsnetzwerk. Ziel ist der Aufbau eines dezentralen Währungssystems, das es jedem ermöglicht, seine eigene Währung zu erstellen.
+
+XRP ist eine Kryptowährung, die von Ripple Labs Inc. entwickelt wurde, einem Technologieunternehmen, das sich auf die Entwicklung und Integration von Zahlungs- und Echtzeit-Bruttoabrechnungssystemen spezialisiert hat. XRP wurde entwickelt, um schnellere und sicherere grenzüberschreitende Transaktionen zu ermöglichen und basiert auf einer dezentralen Open-Source- und Peer-to-Peer-Plattform, die einen nahtlosen Geldtransfer in jeder Form ermöglicht, sei es USD, Yen, Litecoin oder Bitcoin.
+
+Einer der einzigartigen Aspekte von XRP ist, dass es nicht geschürft wird. Stattdessen gab Ripple Labs zu Beginn der Münze 100 Milliarden XRP aus, wobei ein Teil vom Unternehmen gehalten und der Rest an Benutzer und Investoren verteilt oder verkauft wurde. Außerdem werden XRP-Transaktionen im Gegensatz zu Bitcoin, das ein dezentrales System von Minern nutzt, die um die Lösung komplexer Algorithmen konkurrieren, von einem Netzwerk unabhängiger Server validiert, die Transaktionsdatensätze vergleichen. Dieser Konsensalgorithmus ermöglicht die Abwicklung von Transaktionen in etwa 3–5 Sekunden.
+
+Die oben aufgeführten Informationen dienen lediglich der Einführung und stellen keine Anlageberatung dar."
+overview_xrp_intro_title,XRP-EINFÜHRUNG
+overview_xrp_title,Über XRP
+pending_value1,Ausstehend {{value1}}
+perpetual_trading_with_up_to_20x,Perpetual Trading mit bis zu 20-facher Hebelwirkung ist jetzt im SoDEX Testnet verfügbar!
+perps,Täter
+please_enter_a_valid_formatdesc,Bitte geben Sie einen gültigen {{formatDesc}} ein.
+please_input_amount,Bitte Betrag eingeben
+please_re_copy_the_address_and,Bitte kopieren Sie die Adresse erneut und zahlen Sie kein Geld an die alte Adresse ein.
+privacy_policy,Datenschutzrichtlinie
+pro,Profi
+proceed_anyway,Fahren Sie trotzdem fort
+proceeding,Weiter
+profit,Profitieren
+pulldown,Pulldown
+qr_code_expired_please_login_again,QR-Code abgelaufen. Bitte melden Sie sich erneut an
+qr_code_expires_in_value1,QR-Code läuft in {{value1}} ab
+rank_1_10_will_get_120,Rang 1-10 erhält jeweils 120.000.
+rank_11_20_will_get_100,Rang 11–20 erhält jeweils 100.000.
+rank_21_50_will_get_70,Rang 21–50 erhält jeweils 70.000.
+rank_51_80_will_get_45,Rang 51–80 erhält jeweils 45.000.
+rank_81_100_will_get_20,Rang 81–100 erhält jeweils 20.000.
+rate_of_return,Rendite
+reach_1_usdc_to_claim,"Erreichen Sie 1 USDC, um Anspruch zu erheben"
+recent_withdrawals,Aktuelle Abhebungen
+reduce_only,Nur reduzieren
+referral_code,Empfehlungscode
+referral_code_applied_successfully,Empfehlungscode erfolgreich angewendet!
+referral_code_cannot_be_empty,Der Empfehlungscode darf nicht leer sein.
+referral_code_created_successfully,Empfehlungscode erfolgreich erstellt!
+referral_code_customized_successfully,Empfehlungscode erfolgreich angepasst!
+referral_code_referralcode,Empfehlungscode: {{referralCode}}
+referral_links_are_not_available_on,Empfehlungslinks sind im Testnet nicht verfügbar. Bitte nutzen Sie das Mainnet.
+refresh_at_nextrefreshtime_utc,Aktualisieren um: {{nextRefreshTime}} (UTC)
+refreshes_monday,Aktualisiert Montag
+refund_address,Rückerstattungsadresse
+refund_application_has_been_submitted_funds,Der Rückerstattungsantrag wurde eingereicht. Das Geld wird innerhalb von 24 Stunden zurückerstattet.
+refunded,Erstattet
+refunding,Rückerstattung
+remainingcount_more_deposits_are_ongoing,{{remainingCount}} weitere Einzahlungen sind im Gange
+remainingslots_slots_remaining,{{remainingSlots}} Verbleibende Slots
+remember_me,Erinnere dich an mich
+remove,Entfernen
+remove_margin,Entfernen
+remove_mfa,Entfernen Sie MFA
+reward,Belohnen
+rewards_will_be_credited_to_your,Prämien werden Ihrem Spot-Konto gutgeschrieben.
+roi_is_calculated_using_the_formula,Der ROI wird nach folgender Formel berechnet:
+safepal_wallet,SafePal-Wallet
+same_address_as_deposit,Gleiche Adresse wie für die Kaution
+scan_qr_code_on_your_mobile,Scannen Sie den QR-Code auf Ihrem Mobilgerät
+search_coin,Suche nach Münzen
+see_all,Alle anzeigen
+see_the_docs_for_more,Weitere Informationen finden Sie in den Dokumenten.
+sell_short,Verkaufen/Leerverkauf
+send_crypto_to_your_sodex_account,Senden Sie Krypto an Ihr SoDEX-Konto.
+share_your_earn,Teilen Sie Ihr Einkommen
+share_your_luck,Teilen Sie Ihr Glück
+side,Seite
+signature_request_was_rejected_please_try,Unterschriftsanfrage wurde abgelehnt. Bitte versuchen Sie es später noch einmal.
+signature_verification_failed_please_try_again,Die Signaturüberprüfung ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+sl_price_must_be_above_zero,Der SL-Preis muss über Null liegen.
+sl_price_must_be_higher_than,"Der SL-Preis muss höher als der Mittelpreis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+sl_price_must_be_lower_than,"Der SL-Preis muss niedriger als der Grenzpreis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+sl_price_must_be_lower_than_2,"Der SL-Preis muss unter dem Mittelpreis liegen. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+slippage_warning,Rutschwarnung
+solana_address,Solana-Adresse
+sort_by_value1,Sortieren nach <value1/>
+soso_transfer_failed_please_try_again,Die SOSO-Übertragung ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+sosovalue_advanced_ai_powered_crypto_investment,SoSoValue – Fortschrittliche KI-gestützte Krypto-Investitionsforschungsplattform
+spot_balance_is_not_enough,Das Spot-Guthaben reicht nicht aus
+spread,Verbreiten
+stake_soso,Setzen Sie SOSO ein
+stake_to_earn,Einsatz zum Verdienen
+start_earning_with_referrals,Verdienen Sie mit Empfehlungen
+start_trading,Beginnen Sie mit dem Handel
+stay_signed_in,Angemeldet bleiben?
+stay_signed_in_desc,"Lassen Sie den Handel aktiviert, damit Sie ihn beim nächsten Mal nicht erneut aktivieren müssen. Verwenden Sie dies nicht auf einem öffentlichen oder gemeinsam genutzten Gerät."
+step_1,Schritt 1
+step_2,Schritt 2
+submit_bug,Fehler einreichen
+success,Erfolg
+sui_address,SUI-Adresse
+sum_priceunit,SUMME {{priceUnit}} :
+sum_value1,SUMME {{value1}} :
+suspicious,Verdächtig
+switch_order_types_here,Wechseln Sie hier die Auftragsart
+switch_to_see_deposits_and_withdrawals,"Wechseln Sie hier, um Ein- und Auszahlungsdatensätze anzuzeigen"
+switch_to_see_latest_trades_here,"Wechseln Sie hier, um die neuesten Trades zu sehen"
+switch_to_value1_to_deposit,"Wechseln Sie zu {{value1}}, um einzuzahlen"
+take_limit,Nimm Limit
+take_market,Nehmen Sie den Markt
+take_profit_and_stop_loss_orders,"Take-Profit- und Stop-Loss-Orders decken standardmäßig automatisch Ihre gesamte Position ab. Take-Profit und Stop-Loss werden automatisch aufgehoben, wenn Sie die Position schließen, und das Erreichen Ihrer festgelegten Preise löst nach dem Schließen der Position eine Marktorder aus."
+taker_orders_pay_a_takerfeestr_fee,Taker-Orders zahlen eine Gebühr von {{takerFeeStr}}. Für Maker-Bestellungen wird eine Gebühr von {{makerFeeStr}} erhoben.
+terms,Bedingungen
+testnet_users,Testnet-Benutzer
+thank_you_for_your_efforts_during,"Vielen Dank für Ihren Einsatz während der Testnet-Phase! 🙏 Beantragen Sie jetzt die Closed Alpha-Whitelist und gehören Sie zu den Ersten, die mit echten Vermögenswerten handeln!"
+the_cumulative_trading_volume_must_reach,Das kumulierte Handelsvolumen muss mindestens 30.000 USDC erreichen (basierend auf dem mittleren Handelsvolumen aller aktuellen Benutzer).
+the_deposit_address_has_changed,Die Einzahlungsadresse hat sich geändert
+the_max_buy_or_max_sell,"Der maximale Kauf- oder Verkaufsbetrag hängt von Ihrem verfügbaren Guthaben und dem Preis ab, zu dem Sie handeln möchten. Der maximale Kauf bzw. maximale Verkauf wird automatisch berechnet, wenn Sie einen Grenzpreis eingeben."
+the_maximum_amount_of_availableinfounit_you,"Der maximale Betrag von {{availableInfoUnit}}, den Sie beim Handel mit dem aktuellen Paar ausgeben können."
+the_maximum_amount_of_quotecoin_you,"Der maximale Betrag von {{quoteCoin}}, den Sie beim Handel mit aktuellem Leverage ausgeben können."
+the_minimum_portfolio_value_required_to,"Der minimale Portfoliowert, der erforderlich ist, um Ihre Cross-Positionen offen zu halten"
+the_qr_code_enables_mobile_trading,"Der QR-Code ermöglicht den mobilen Handel, jedoch keine Ein- und Auszahlungen. Bitte halten Sie diesen QR-Code zu Ihrer Sicherheit vertraulich und teilen Sie keine Screenshots mit. Wir empfehlen, alle Bildschirmfreigabeanwendungen zu schließen, während Sie diese Funktion verwenden."
+the_rate_will_charge_every_hour,"Der Satz wird jede Stunde berechnet, zu der Long-Positionen Short-Positionen zahlen (bei negativem Kurs zahlen Short-Positionen Long-Positionen). Mit der Finanzierung sind keine Gebühren verbunden. Dabei handelt es sich um einen Peer-to-Peer-Transfer zwischen Benutzern, um die Preise in Richtung des Spotpreises zu drücken. Weitere Informationen finden Sie in den Dokumenten."
+the_server_is_busy_please_try,Der Server ist beschäftigt. Bitte versuchen Sie es später noch einmal
+the_user_s_spot_account_must,"Das Spot-Konto des Benutzers muss über Vermögenswerte im Gegenwert von 7.000 USDC verfügen, um sich für die Bestenliste zu qualifizieren."
+this_address_has_been_identified_as,*Diese Adresse wurde als Hochrisikoadresse identifiziert. Überweisungen an diese Adresse können nicht bearbeitet werden.
+this_limit_applies_only_during_alpha,Dieses Limit gilt nur während der Alpha-Phrase.
+this_site_uses_cookies_to_ensure,"Diese Website verwendet Cookies, um die beste Benutzererfahrung zu gewährleisten. Diese Cookies sind für eine optimale Funktionalität unbedingt erforderlich bzw. unerlässlich. Durch die Nutzung dieser Website stimmen Sie der Cookie-Richtlinie zu."
+this_token_is_not_currently_supported,Dieser Token wird derzeit nicht für den Futures-Handel unterstützt.
+this_token_is_not_currently_supported_2,Dieser Token wird derzeit nicht für den Spothandel unterstützt.
+this_will_attempt_to_immediately_close,"Dadurch wird versucht, die Position sofort zu schließen."
+this_will_close_all_your_positions,This will close all your positions and cancel their associated TP/SL orders
+this_will_modify_the_current_price,Dadurch wird der aktuelle Preis für Take-Profit oder Stop-Loss geändert.
+this_will_open_an_order_to,Dadurch wird eine Order zum Schließen Ihrer Position zum Limitpreis eröffnet.
+tigger,Tigger
+token_contract,Token-Vertrag
+ton_address,TON-Adresse
+total_net_transfers_total_realized_profit,Gesamte Nettotransfers + Gesamter realisierter Gewinn + Gesamte Nettofinanzierungsgebühren – Marge + Nicht realisierter Gewinn
+total_points,Gesamtpunktzahl
+tp_price_must_be_above_zero,Der TP-Preis muss über Null liegen.
+tp_price_must_be_higher_than,"Der TP-Preis muss höher als der Grenzpreis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+tp_price_must_be_higher_than_2,"Der TP-Preis muss höher als der mittlere Preis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+tp_price_must_be_lower_than,"Der TP-Preis muss niedriger als der Grenzpreis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+tp_price_must_be_lower_than_2,"Der TP-Preis muss niedriger als der mittlere Preis sein. Um eine Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+tp_sl_for_long_position,TP/SL für Long-Position
+tp_sl_for_short_position,TP/SL für Short-Position
+tp_sl_order_placed_waiting_to,"TP/SL-Auftrag aufgegeben, wartet auf Auslösung."
+trade_guide,Handelsführer
+trade_now,Jetzt handeln!
+trade_to_earn,"Handeln, um zu verdienen"
+trade_value,Handelswert
+trade_with_limit_orders,Handeln Sie mit Limit-Orders
+trading_volume_not_included_in_the,Handelsvolumen nicht im Leaderboard enthalten?
+trading_volume_tradingvolume,Handelsvolumen: ( {{tradingVolume}} )
+transaction_failed,Transaktion fehlgeschlagen
+transaction_failed_please_try_again,Die Transaktion ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+transaction_failed_please_try_again_2,Die Transaktion ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+transaction_has_been_canceled,Die Transaktion wurde abgebrochen.
+transaction_hash,Transaktions-Hash
+transfer_asset_among_your_value1_spot,"Übertragen Sie Vermögenswerte auf Ihr {{value1}}Spot/Futures-Konto, um die Transaktion abzuschließen."
+transfer_assets_between_your_evm_funding,Übertragen Sie Vermögenswerte zwischen Ihren EVM-Finanzierungs- und Spot-Guthaben.
+transfer_desc_spot_to_futures,"Übertragen Sie Vermögenswerte von Ihrem Spot-/EVM-Finanzierungskonto auf Ihr Futures-Konto, um die Transaktion abzuschließen."
+transfer_from_futures_account,Überweisung vom Futures-Konto
+transfer_from_spot_account,Überweisung vom Spot-Konto
+transfer_funds_from_binance_or_other,"Überweisen Sie Geld von Binance oder anderen Börsen, Ketten wie Solana und anderen Wallets"
+transfer_funds_to_your_futures_account,Überweisen Sie Geld auf Ihr Futures-Konto und beginnen Sie sofort mit dem Handel!
+transfer_in_progress_please_do_not,"*Übertragung läuft. Bitte schließen Sie dieses Fenster nicht. Das Schließen kann dazu führen, dass Gelder in der EVM-Finanzierung verbleiben und die Auszahlung nicht abgeschlossen werden kann."
+transfer_to_from,Transfer nach/von
+transferred_successfully,Erfolgreich übertragen.
+transferred_successfully_redirecting_to_ssi,Erfolgreich übertragen. Weiterleitung zu SSI.
+trigger_conditions,Triggerbedingungen
+try_now,Versuchen Sie es jetzt
+tutorial,Anleitung
+type,Typ
+unable_to_place_order_you_have,"Bestellung kann nicht aufgegeben werden. Sie haben eine aktive Limit-Order in diese Richtung. Bitte stornieren Sie diese bestehende Limitbestellung, bevor Sie eine reine Reduzierungsbestellung aufgeben."
+unable_to_place_order_you_have_2,"Bestellung kann nicht aufgegeben werden. Sie haben einen aktiven Nur-Reduzierungsauftrag in diese Richtung. Bitte stornieren Sie diese bestehende Bestellung, bevor Sie eine neue aufgeben."
+unrealized_pnl_roe,Nicht realisierter PnL (ROE%)
+use_below_password_to_login,"Verwenden Sie das untenstehende Passwort, um sich anzumelden"
+use_metamask_walletconnect_or_another_provider,"Verwenden Sie MetaMask, WalletConnect oder einen anderen Anbieter, um Geld aus Ihrer Krypto-Wallet einzuzahlen"
+use_referral_code_to_join_whitelist,"Verwenden Sie den Empfehlungscode, um der Whitelist beizutreten"
+used_for_margining_computing_unrealized_pnl,"Wird zum Margining, zur Berechnung nicht realisierter PnL, Liquidationen und zum Auslösen von TP/SL-Aufträgen verwendet"
+valid_address_format,Gültiges Adressformat
+value1_min,≈ {{value1}} min
+value1_point,{{value1}} Punkt
+value1_th,{{value1}} th
+value1_usdc,{{value1}} USDC
+valuechain_network_is_already_added_and,Das ValueChain-Netzwerk ist bereits hinzugefügt und aktiv
+verify,Verifizieren
+verifying,Verifizieren
+view,Sicht
+view_2,Sicht
+view_docs,Dokumente anzeigen
+view_orders,Bestellungen anzeigen
+waiting_for_signature,Warten auf Unterschrift...
+waiting_for_user_to_deposit,Warten auf die Einzahlung des Benutzers
+waiting_transfer,Wartender Transfer
+wallet_connection_was_cancelled_please_try,Die Wallet-Verbindung wurde abgebrochen. Bitte versuchen Sie es erneut.
+wallet_not_connected_or_not_found,Wallet nicht verbunden oder nicht gefunden
+warning_you_are_using_a_limit,"Warnung: Sie verwenden einen Grenzpreis, der {{notBestPriceRate}} aggressiver ist als der beste {{side}} Preis."
+we_ll_walk_you_through_setting,"Wir führen Sie Schritt für Schritt durch die Einstellung des Hebels, die Risikoprüfung und die Auftragserteilung."
+we_take_snapshots_every_fifteen_minutes,"Wir machen alle fünfzehn Minuten Schnappschüsse. Für neue Benutzer wird das Handelsvolumen vor dem Snapshot-Zeitpunkt nicht in die Rangliste aufgenommen, was einer etwa 15-minütigen Abklingzeit nach dem ersten Handel entspricht."
+we_will_return_the_tokens_to,Wir senden die Token an die von Ihnen angegebene Adresse zurück.
+welcome_to_sodex,Willkommen bei SoDEX
+welcome_to_the_futures_trading_tutorial,Willkommen beim Futures-Trading-Tutorial
+what_are_lucky_block_rewards,Was sind Lucky Block Rewards?
+withdraw_failed,Die Auszahlung ist fehlgeschlagen
+withdrawal_failed,Auszahlung fehlgeschlagen
+withdrawing_in_progress,Auszahlung läuft
+x_twitter,X (Twitter)
+xlm_address,XLM-Adresse
+xrp_address,XRP-Adresse
+you_are_about_to_place_a,"Sie sind im Begriff, eine große Marktorder aufzugeben, die aufgrund der begrenzten Liquidität bei den aktuellen Preisen zu erheblichen Abweichungen führen kann, und diese Order wird möglicherweise automatisch storniert."
+you_are_using_the_code_referralcode,Sie verwenden den Code: {{referralCode}}
+you_can_restart_the_trading_demo,Sie können die Handelsdemo jederzeit von hier aus neu starten.
+you_have_claimed_your_test_tokens,Sie haben Ihre Testtoken erfolgreich beansprucht!
+you_have_claimed_your_test_tokens_2,Sie haben Ihre Testtoken erfolgreich beansprucht!
+you_have_joined_the_whitelist_successfully,Sie haben sich erfolgreich der Whitelist angeschlossen
+you_have_one_chance_to_customize,"Während der Betaversion haben Sie einmal die Möglichkeit, Ihren Code anzupassen."
+you_pay_no_gas_the_order,Sie zahlen kein Benzin. Die Bestellung wird innerhalb weniger Sekunden bestätigt.
+you_re_invited_to_join_the,"Sie sind eingeladen, dem SoDEX Mainnet beizutreten."
+you_re_invited_to_sodex_mainnet,🎉 Du bist zum SoDEX Mainnet eingeladen!
+you_receive,Sie erhalten
+you_will_receive_10_of_referred_2,Sie erhalten 10 % der Gebühren geworbener Nutzer und 25 % ihrer Punkte. Sie erhalten zusätzlich 5 % ihrer Punkte.
+your_balance_is_not_enough,Ihr Guthaben reicht nicht aus
+your_position_value_exceeds_the_maximum,"Ihr Positionswert übersteigt den bei der aktuellen Hebelwirkung maximal zulässigen Wert. Bitte reduzieren Sie den Hebel, um den Handel fortzusetzen."
+your_usdc_balance_is_below_0,"Ihr USDC-Guthaben liegt unter 0. Der verfügbare Betrag von {{value1}} beträgt {{value2}}. Wenn Sie alle {{value3}} abheben möchten, setzen Sie USDC bitte auf 0 oder höher zurück."

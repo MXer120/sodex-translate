@@ -1,0 +1,19 @@
+﻿key,value
+approval_transaction_failed,Genehmigungstransaktion fehlgeschlagen
+contract_interaction_failed,Vertragsinteraktion fehlgeschlagen. Bitte überprüfen Sie das Netzwerk und versuchen Sie es erneut
+deposit_transaction_failed,Einzahlungstransaktion fehlgeschlagen
+failed_to_copy_link,Link konnte nicht kopiert werden
+failed_to_generate_image,Bild konnte nicht generiert werden
+image_copied,Bild in die Zwischenablage kopiert!
+image_downloaded,Bild heruntergeladen!
+image_saved,Bild gespeichert!
+link_copied,Link erfolgreich kopiert!
+network_connection_failed,Netzwerkverbindung fehlgeschlagen. Bitte überprüfen Sie Ihre Verbindung
+network_switch_failed,Netzwerkwechsel fehlgeschlagen. Bitte wechseln Sie manuell
+operation_failed,Vorgang fehlgeschlagen. Bitte versuchen Sie es erneut
+token_approval_failed,Die Token-Genehmigung ist fehlgeschlagen. Bitte versuchen Sie es erneut
+transaction_canceled,Transaktion abgebrochen
+transaction_confirmation_failed,Transaktionsbestätigung fehlgeschlagen. Bitte versuchen Sie es erneut
+transaction_submit_failed,Die Übermittlung der Transaktion ist fehlgeschlagen
+transfer_failed,Übertragung fehlgeschlagen
+withdraw_request_failed,Auszahlungsanforderung fehlgeschlagen. Bitte versuchen Sie es erneut

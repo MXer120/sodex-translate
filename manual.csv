@@ -1,0 +1,150 @@
+﻿key,value
+adjust_margin,Marge anpassen
+amount_coin_deposit_pending,{{amount}} ${{coin}} Einzahlung ausstehend
+amount_is_too_small_after_the,"Der Betrag ist nach der Gebühr von 0,001 SOSO zu gering."
+amount_soso,Betrag (SOSO)
+approve_in_wallet,In Wallet genehmigen
+approve_spending_cap_in_wallet,Ausgabenobergrenze im Wallet genehmigen
+approved_spending_cap,Genehmigte Ausgaben:
+approving_spending_cap,Genehmigen der Ausgabenobergrenze im Wallet
+balance_on_valuechain,Saldo auf ValueChain
+boost_coefficient,Boost-Koeffizient
+buy_mag7_ssi,MAG7.ssi kaufen
+check_in_detail,Check-in im Detail
+check_your_soso_balance,Prüfe den Betrag auf deiner Geschenkkarte
+claim_mag7_ssi,Fordern Sie MAG7.ssi an
+claim_to_your_account,Anspruch auf Ihr Konto
+claim_your_airdrop,Holen Sie sich Ihren Airdrop
+complete_in_volume_to_start_earning,"Schließe <span>{{value}}</span> ab, um Umsätze zu erzielen (Spot + Futures)"
+confirm_close_all,Schließen bestätigen
+confirm_in_wallet,In Wallet bestätigen
+confirm_order,Auftrag bestätigen
+confirmed_in_wallet,Bestätigt im Wallet
+congratulation_you_have_got_boost_on_ssi_rewards,"Glückwunsch! Du hast 
+ <span>{{boost}} Boost</span> auf SSI-Belohnungen erhalten!"
+congratulations,🎉 Herzlichen Glückwunsch!
+connect_wallet_to_claim_your_airdrop,"Verbinden Sie das Wallet, um Ihren Airdrop zu erhalten"
+copied_image_successfully,Bild erfolgreich kopiert
+copied_text_successfully,Text erfolgreich kopiert
+copy,Kopie
+current_progress,Aktueller Fortschritt
+deposit_at_least,Mindestens <span>{{amount}} {{coin}}</span> einzahlen.
+download,Herunterladen
+during_the_mainnet_closed_alpha_stage,"Während der Mainnet Closed Alpha-Phase kann jeder Einladende <b>bis zu 3 neue Empfehlungsbeziehungen pro Kalenderwoche zählen</b>. Wenn das wöchentliche Kontingent bereits genutzt wird, sehen möglicherweise weitere Freunde diese Nachricht und <b>werden erst beim nächsten Zurücksetzen als Empfehlungen gezählt</b>. Wöchentliche Slots werden <b>jeden Montag um 00:00 UTC</b> zurückgesetzt (der Toast zeigt auch die nächste verfügbare Zeit an). Es wird erwartet, dass dieses wöchentliche Limit nach dem öffentlichen Start aufgehoben wird."
+epoch_4_has_begun,Epoche 4 hat BEGONNEN
+estimated_gas_fees,Geschätzte Gasgebühren
+expected_loss,erwarteter Verlust
+expected_profit,erwarteter Gewinn
+failed_to_get_account_please_ensure,"Konto konnte nicht abgerufen werden. Bitte stellen Sie sicher, dass Sie eingeloggt sind."
+failed_to_get_invitation_code,Einladungscode konnte nicht abgerufen werden
+formdata_amount_value2_deposit_is_pending,{{formData_amount}} {{value2}} Einzahlung steht noch aus...
+fund_your_wallet,Ihre Brieftasche
+go_to_portfolio,Zum Portfolio . . .
+go_trading,Gehen Sie handeln
+here_are_a_few_common_reasons,Hier sind ein paar häufige Gründe:
+here_are_a_few_common_reasons_1,Der geworbene Benutzer hat den Verknüpfungsschritt möglicherweise nicht erfolgreich abgeschlossen (z. B. Wallet verbunden und Signatur/Bestätigung abgeschlossen)
+here_are_a_few_common_reasons_2,Oder die Daten wurden möglicherweise noch nicht aktualisiert (Aktualisierungen etwa alle 30 Minuten).
+here_are_a_few_common_reasons_3,Eine weitere Möglichkeit ist das <b>wöchentliche Limit</b>: Jede Kalenderwoche werden nur <b>bis zu 3 neu geworbene Benutzer</b> für Empfehlungsbeziehungen gezählt - zusätzliche Benutzer werden für diese Woche möglicherweise nicht gezählt.
+hi_sodexer,"Hallo, SoDEXer!"
+holding_smag7_ssi_will_automatically_participate_in_ssi,Das Halten von sMAG7.ssi nimmt automatisch an Airdrops der SSI-Plattform teil. Einzelheiten finden Sie unter <a>{{SSI_URL}}</a>.
+i_have_earned,Ich habe es verdient
+i_have_earned_earnedamount_soso_in,"Ich habe {{earnedAmount}} $SOSO im Epoche-3-Event verdient, Epoche 4 hat begonnen. Melden Sie sich jetzt an, um Ihre $SOSO zu verdienen! Klicken Sie hier, um jetzt $SOSO zu verdienen: {{shareLink}}"
+insufficient_spot_balance_for_transfer,Unzureichendes Spotguthaben für die Überweisung.
+inviter_wallet_address_not_found,Die Wallet-Adresse des Einladenden wurde nicht gefunden
+join_sodex_mainnet_with_referral_code,Treten Sie SoDEX Mainnet mit dem Empfehlungscode <span>{{referralCode}}</span> bei und erhalten Sie einen Punkteschub von 5 %
+leaderboard_campaign_winner,🎉Gewinner der Bestenlisten-Kampagne!
+limit_close,Limit schließen
+link,Link
+log_in_with_email,Melden Sie sich mit E-Mail an
+max_boost_coefficient_is_100_2x,"Der maximale Boost-Koeffizient beträgt 100 % (2x Multiplikator). Wenn Ihr Einsatz von $SOSO 100 % von $SSI übersteigt, ist der Boost auf 100 % begrenzt."
+maximum_unstake_is_value1_smag7_ssi,Der maximale Einsatz beträgt {{value1}} sMAG7.ssi.
+minimum_minimumamount_usdc,Mindestens {{minimumAmount}} USDC
+minimum_unstake_is_minimum_usdc_deposit,Der Mindesteinsatz beträgt {{MINIMUM_USDC_DEPOSIT_AMOUNT}} sMAG7.ssi
+minimum_withdraw_is,Die Mindestauszahlung beträgt {{amount}} {{coin}}
+modify_tp_sl,TP/SL ändern
+my_total_ssi_value,Mein Gesamt-SSI-Wert
+network_congestion_detected_signature_submission_to,Netzwerküberlastung erkannt. Die Übermittlung der Unterschrift an Ihr Wallet kann 3–5 Minuten dauern. Bitte warten Sie geduldig.
+not_enough_balance,Nicht genug Gleichgewicht.
+only_send_coin_on_network,Senden Sie nur <span>{{coin}}</span> auf <span>{{network}} Netzwerk</span>.
+only_staking_soso_wont_give_you_any_ssi_points,"Nur das Staking von SOSO <b>WON'T</b> gibt Ihnen SSI-Punkte, Sie erhalten SSI-Tokens für grundlegende SSI-Punkte.
+Ihr SOSO kann 14 Tage nach der Aufhebung des Einsatzes abgehoben werden.
+Durch den Einsatz von SOSO werden Ihre SSI Points Rewards automatisch <b>boost</b>.
+Einzelheiten finden Sie unter <a> https://ssi.sosovalue.com/</a>."
+open_a_channel_from_your_account,"Öffnen Sie einen Kanal von Ihrem Konto zu SoDEX Vault, damit Sie MAG7.ssi beanspruchen können."
+open_a_channel_from_your_account_2,"Öffnen Sie einen Kanal von Ihrem Konto zum SoDEX Vault, damit Sie Geld einzahlen können."
+open_a_channel_from_your_account_3,"Öffnen Sie einen Kanal von Ihrem Konto zu SoDEX Vault, damit Sie sMAG7.ssi entsperren können."
+open_a_channel_from_your_account_4,"Öffnen Sie einen Kanal von Ihrem Konto zum SoDEX Vault, damit Sie Geld abheben können."
+open_a_channel_from_your_account_5,Öffnen Sie einen Kanal von Ihrem Konto zu SoDEX für gasfreien und sofortigen Handel.
+otherwise_i_will_result_in_permanent_loss,Andernfalls führe ich zu einem dauerhaften <span>Verlust</span>.
+parsedamount_record_coin_actiontextlower_pending,{{parsedAmount}} {{record_coin}} {{actionTextLower}} ausstehend
+parsedamount_token_actiontextlower_pending,{{parsedAmount}} {{token}} {{actionTextLower}} ausstehend.
+partially_filled_qty_coin_sell_buy_at_average_price,"Teilweise ausgefüllt: {{qty}} {{coin}} {{sell_buy}}, Durchschnittspreis ${{avgPrice}}"
+please_connect_your_wallet_first_2,Bitte verbinden Sie zuerst Ihr Wallet.
+please_enter_a_valid_stake_amount,Bitte geben Sie einen gültigen Einsatzbetrag ein.
+points_are_not_displayed_yet,"Punkte werden noch nicht angezeigt, aber <b>Tracking ist bereits seit dem SoDEX Mainnet-Start</b> aktiv. Berechtigte Mainnet-Aktionen werden auf das Punktesystem angerechnet, und der Punktebonus von <b>25 % der Eingeladenen sammelt sich kontinuierlich an</b> im Hintergrund. Es wird erwartet, dass Punkte ab Februar 2026<b>sichtbar werden</b>, um eine faire und überprüfbare Verteilung zu gewährleisten. Wenn Points live geht, werden zuvor gesammelte Punkte (einschließlich des 25 % Eingeladenenbonus) <b>rückwirkend berücksichtigt und automatisch gutgeschrieben</b>, es sind keine Maßnahmen erforderlich."
+poster,Poster
+price_above_value1,Preis über {{value1}}
+price_below_value1,Preis unter {{value1}}
+price_is_required,Preis ist erforderlich
+process_interruption,Prozessunterbrechung
+qty_coin_sell_buy_at_average_price,"{{qty}} {{coin}} {{sell_buy}}, Durchschnittspreis {{avgPrice}}"
+rewards_are_capped_per_referred_user,"Die Prämien sind pro geworbenem Benutzer begrenzt. Sobald das kumulierte Handelsvolumen eines einzelnen geworbenen Benutzers <b>$1B</b> überschreitet, werden für den Teil über 1 Mrd. $ keine Empfehlungsprämien mehr generiert. Prämien, die innerhalb der ersten 1 Milliarde US-Dollar generiert werden, bleiben davon unberührt."
+rewards_unavailable,Belohnungen nicht verfügbar
+scan_to_earn_soso_now,"Scannen Sie, um jetzt $SOSO zu verdienen"
+ssi_token,SSI-Token
+stake,Einsatz
+stake_failed,Pfahl fehlgeschlagen
+stake_now_to_earn_soso,"JETZT EINTEILEN, UM $SOSO ZU VERDIENEN!"
+stake_soso,Setzen Sie $SOSO ein
+stake_soso_2,Setzen Sie SOSO ein
+stake_successful,Einsatz erfolgreich!
+stake_your_soso,Setzen Sie Ihr $SOSO ein
+staking_epoch_3_rewards,Belohnungen für Epoche 3 abstecken
+staking_failed_please_try_again_and,Das Abstecken ist fehlgeschlagen. Bitte versuchen Sie es noch einmal. Wir entschuldigen uns für die Unannehmlichkeiten
+start_trading_on_sodex,Beginnen Sie mit dem Handel auf SoDEX
+step1_confirming_on_value1_chain,Schritt 1: Bestätigen in der {{value1}}-Kette
+step1_initiating_from_valuechain,Schritt 1: Initiierung von ValueChain
+step2_depositing_to_sodex,Schritt 2: Einzahlung bei SoDEX
+step2_withdrawing_to_value1_chain,Schritt 2: Rückzug in die {{value1}}-Kette
+step3_finalizing_confirmation,Schritt 3: Abschließende Bestätigung
+stop_order_price_must_be_higher,Der Stop-Order-Preis muss über dem Mittelwert liegen
+stop_order_price_must_be_lower,Der Stop-Order-Preis muss niedriger als der Mittelwert sein
+stop_price_is_required,Stop-Preis ist erforderlich
+take_order_price_must_be_higher,Der Take-Order-Preis muss höher als der mittlere sein
+take_order_price_must_be_lower,Der Take-Order-Preis muss unter dem mittleren liegen
+take_profit_limit,Take-Profit-Limit
+take_profit_market,Take-Profit-Markt
+terms_of_use_privacy_policy_and,"Nutzungsbedingungen, Datenschutzrichtlinie und Cookie-Richtlinie"
+thank_you_for_your_support_value1,Vielen Dank für Ihre Unterstützung! {{value1}}
+thanks_for_your_interest_in_sodex,Vielen Dank für Ihr Interesse an SoDEX!
+the_current_withdraw_process_has_been,"Der aktuelle Auszahlungsprozess wurde unterbrochen. Klicken Sie bitte auf die Schaltfläche „Unstake“, um mit dem Abheben von MAG7.ssi fortzufahren, oder hinterlegen Sie sMAG7.ssi im Tresor."
+the_order_will_likely_get_filled,Die Bestellung wird zu diesem Preis wahrscheinlich sofort ausgeführt.
+this_referral_code_is_permanent_and_unique_to_you,Dieser Empfehlungscode ist dauerhaft und einzigartig für Sie.<br />Wählen Sie mit Bedacht.
+this_signature_is_gas_free_to,Diese Signatur ist gasfrei zu versenden. Es eröffnet einen dezentralen Kanal für den gasfreien und sofortigen Handel.
+to_boost_rewards,um die Belohnungen zu steigern
+to_protect_your_futures_position,"Um Ihre Position zu schützen, halten wir einen Sicherheitspuffer von 0,5 % × Ihrem aktuellen Hebel × Ihrer aktuellen Position.<br /> Daher kann der Betrag, den Sie von Ihrem Futures-Konto überweisen können, geringer sein als der angezeigte Futures-Saldo. Wir empfehlen Ihnen, Ihre aktuelle Position vor der Übertragung zu schließen."
+to_reach_the_2_boost_please_stake_enough_soso,"Um den 2×-Boost zu erreichen, setzen Sie bitte genügend SOSO ein"
+to_reach_the_2_boost_you_need_to_stake_qty_soso,"Um den 2×-Boost zu erreichen, müssen Sie {{qty}} SOSO einsetzen."
+trade_on_sodex,Handeln Sie auf SoDEX
+transfer_and_stake_soso,SOSO übertragen und einsetzen
+transfer_failed_please_try_again,Die Übertragung ist fehlgeschlagen. Bitte versuchen Sie es erneut.
+transfer_in_progress_closing_or_failed,"* Übertragung läuft. Das Schließen oder Fehlschlagen kann dazu führen, dass Gelder in <span>{{accountType}}</span> verbleiben."
+transfer_tokens_among_your_accounts,Übertragen Sie Token zwischen Ihren Konten.
+unlock_eligibility_is_checked_on_a_scheduled,"Die Freischaltberechtigung wird bei einer geplanten Aktualisierung überprüft (etwa alle <b>5 Minuten</b>), nicht sofort. Wenn Ihr Volumen gerade 2.000 $ überschritten hat, wird auf der Empfehlungsseite möglicherweise immer noch „Gesperrt“ angezeigt, bis die nächste Prüfung ausgeführt wird. Bitte warten Sie ein paar Minuten und aktualisieren Sie die Seite. Ihre Empfehlungsfunktion sollte nach der nächsten Aktualisierung automatisch freigeschaltet werden."
+unstake_smag7_ssi_to_mag7_ssi,Trennen Sie sMAG7.ssi von MAG7.ssi
+unstake_withdraw_on_ssi,Aufheben/Abheben auf SSI
+unstake_your_smag7_ssi_to_mag7,Trennen Sie Ihr sMAG7.ssi von MAG7.ssi.
+unstaked_smag7_ssi_to_mag7_ssi,Nicht abgestecktes sMAG7.ssi zu MAG7.ssi
+up_to,Bis zu
+update_margin_failed,Aktualisierungsmarge fehlgeschlagen
+using_cross_margin_mode,Verwendung des Cross-Margin-Modus
+using_isolated_margin_mode,Verwendung des isolierten Randmodus
+valuechain_supports_multiple_options_to_fund,"ValueChain unterstützt mehrere Optionen zur Einzahlung auf Ihr Konto. Finden Sie eine Methode, die am besten zu Ihnen passt."
+warning_only_send_via_the_selected,Achtung: Nur über das ausgewählte Netzwerk versenden. Das Senden aus einem anderen Netzwerk führt zu einem dauerhaften Geldverlust.
+welcome_to_sodex_description,"Willkommen bei SoDEX! Sie treten einer Plattform bei, die Krypto-Investitionen für die breite Masse ermöglicht.<br /><br />Erstellen Sie ein Konto, um mit dem Handel zu beginnen, erkunden Sie unsere <a href=""__VAR_0__"">Dokumente</a> und treten Sie der <a href=""__VAR_1__"">Community</a> bei."
+withdraw_smag7_ssi_from_slp,Ziehen Sie sMAG7.ssi aus SLP zurück
+withdraw_your_mag7_ssi_to_your,Heben Sie Ihr MAG7.ssi auf Ihr Spot-Konto ab.
+you_acknowledge_that_you_have_read_understood,"Sie bestätigen, dass Sie die <a href=""__VAR_0__"">Nutzungsbedingungen</a> und <a href=""__VAR_1__"">Datenschutzerklärung</a> gelesen, verstanden und ihnen zugestimmt haben."
+you_are_using_a_testnet_referral,"Sie verwenden einen Testnet-Empfehlungscode. Bitte gehen Sie zu <a href=""__VAR_0__"">{{href}}</a>, um es zu verwenden."
+you_ve_successfully_claimed,Sie haben Ihren Anspruch erfolgreich geltend gemacht
+your_soso_claim_failed_please_try,Ihr $SOSO-Anspruch ist fehlgeschlagen. Bitte versuchen Sie es noch einmal. Wir entschuldigen uns für die Unannehmlichkeiten

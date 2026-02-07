@@ -1,0 +1,38 @@
+﻿key,value
+12h,12h
+1h_2,1h
+1y,1Y
+2h,2h
+6h,6h
+8h,8H
+90d,90D
+api_error,API-Fehler:
+basis,Basis:
+cadence,Kadenz:
+click_to_retry,"Klicken Sie, um es erneut zu versuchen"
+deselect_all,Alle abwählen
+error_loading_stats,Fehler beim Laden der Statistiken
+exchange_network_data,Austausch- und Netzwerkdaten
+failed_to_load_data,Daten konnten nicht geladen werden
+funding_arbitrage,Finanzierungsarbitrage
+funding_rate_differences_across_exchanges,Unterschiede bei den Finanzierungsraten zwischen den Börsen.
+index_price_is_the_weighted_average,Der Indexpreis ist der gewichtete Durchschnittspreis an den wichtigsten Börsen
+mark_price_is_used_for_pnl,Mark Price wird für PnL-Berechnungen und Liquidationen verwendet
+no_markets_found,Keine Märkte gefunden
+number_of_trades,Anzahl der Trades
+open_interest,Offenes Interesse
+perp_price_data,Perp-Preisdaten
+premium_index,Premium-Index
+premium_index_mark_price_index_price,"Premium-Index = (Markpreis – Indexpreis) / Indexpreis (z. B. 0,000400 = 0,04 %)"
+refresh_data,Daten aktualisieren
+search_market,Marktsuche
+select_all,Wählen Sie „Alle“ aus
+select_market,Markt auswählen
+select_markets,Wählen Sie Märkte aus
+selected_length_markets_selected,{{selected_length}} Märkte ausgewählt
+side,Seite:
+size,Größe:
+slippage,Slippage
+stats_dashboard,Statistik-Dashboard
+unique_traders,Einzigartige Händler
+updating,Aktualisierung...

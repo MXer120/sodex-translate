@@ -1,0 +1,449 @@
+﻿key,value
+15m,15m
+1d,1D
+1h,1 Stunde
+1m,1m
+1m_2,1M
+1w,1W
+1y_return,1 Jahres Rendite
+1y_return_tooltip,"Die in den letzten 12 Monaten erzielte Gesamtrendite, berechnet auf der Grundlage von Änderungen des Nettoinventarwerts und ausgeschütteten Prämien."
+24h_change,24h Veränderung
+24h_high,24H Hoch
+24h_low,24H Tief
+24h_vol,24H Vol
+24h_vol_quoteunitview,24H Vol( {{quoteUnitView}} )
+30d,30T 
+30m,30m
+4h,4h
+5m,5m
+7d,7T
+account_value_change,Änderung des Kontowertes
+action,Handlung
+active,Aktiv
+address,Adresse
+adjust_leverage,Hebel anpassen
+airdrop_dashboard,Airdrop-Dashboard
+all,Alle
+all_time,Gesamtzeitraum
+also_includes_rejected_amount,Enthält auch abgelehnte Beträge für nur reduzierte Orders
+amount,Betrag
+amount_baseunitview,Betrag({{baseUnitView}})
+amount_formatbaseunitview,Betrag({{formatBaseUnitView}})
+amount_is_required,Betrag ist erforderlich
+announcements,Bekanntmachungen
+apply_a_refund,Eine Rückerstattung beantragen
+approving_spending_cap_in_wallet,Genehmigen der Ausgabenobergrenze im Wallet
+asset,Vermögenswert
+at_least_amount_coin,Mindestens {{amount}} {{coin}}
+authentication_failed_please_verify_your_wallet,Authentifizierung fehlgeschlagen. Bitte verifizieren Sie Ihr Wallet erneut.
+authentication_successful,Anmeldung erfolgreich
+available_balance,Verfügbares Guthaben
+back,Zurück
+balance,Saldo
+balance_value1,Saldo: {{value1}}
+balances,Guthaben
+balances_under_small_usd_value_threshold,Salden unter ${{SMALL_USD_VALUE_THRESHOLD}} werden nicht angezeigt.
+bitget,Bitget
+block,Block
+block_is_full_please_try_again,Block ist voll. Bitte versuchen Sie es erneut
+both,Beides
+bought,gekauft
+bug_report,Fehlerbericht
+buy,Kaufen
+cancel,Abbrechen
+canceled,Abgebrochen
+cancelled,Abgebrochen
+cannot_invite_your_inviter,Einladende Person kann nicht eingeladen werden
+cannot_use_your_own_referral_code,Es kann kein eigener Empfehlungscode verwendet werden
+chain,Kette
+chart,Diagramm
+check_details,Details überprüfen
+check_status,Status überprüfen
+claim,Beanspruchen
+claim_failed,Beanspruchung fehlgeschlagen
+claim_rewards,Belohnungen abholen
+claimed,Beansprucht
+claiming,Beanspreche
+click_again_to_place_order,"Klicken Sie erneut, um eine Order aufzugeben"
+clobscan,ClobScan
+coin,Münze
+coming_soon,Demnächst verfügbar
+commodities,Rohstoffe
+completed,Bestanden
+confirm,Bestätigen
+confirm_cancel_all,Stornierung Bestätigen
+confirm_cancel_all_description,Dadurch werden alle offenen Orders storniert.
+confirming_in_wallet,Bestätigung im Wallet
+connect_wallet,Wallet verbinden
+connected_wallet,Verbundenes Wallet
+copied_link_successfully,Link erfolgreich kopiert
+copied_poster_successfully,Poster erfolgreich kopiert
+copy_address,Adresse kopieren
+copy_link,Link kopieren
+copy_poster,Poster kopieren
+create,Erstellen
+create_code,Code erzeugen
+crossed,Kreuz
+current_vault_apr,Aktueller Tresor APR
+data_amount_data_coin_coinsymbol_withdraw,{{data_amount}} {{data_coin_coinSymbol}} Auszahlung wird bestätigt.
+data_amount_data_coin_coinsymbol_withdraw_2,{{data_amount}} {{data_coin_coinSymbol}} erfolgreich ausgezahlt.
+deposit,Einzahlen
+deposit_address,Einzahlungs-Adresse
+deposit_address_changed_notice,Hinweis*: Die Einzahlungsadresse hat sich geändert. Bitte kopieren Sie die Adresse erneut und zahlen Sie kein Geld an die alte Adresse.
+deposit_amount,Einzahlungsbetrag
+deposit_coin_from_chain,Einzahlung {{coin}} von {{chain}}
+deposit_coin_to_account_balances,Zahlen Sie {{coin}} auf Ihre {{account}} Guthaben ein
+deposit_failed_kyt_check_failed,EINZAHLUNG FEHLGESCHLAGEN: KYT-PRÜFUNG FEHLGESCHLAGEN
+deposit_flagged_kyt_description,"Diese Einzahlung wurde markiert, da die Quelladresse das KYT-Screening nicht bestanden hat. Die Geldmittel sind derzeit in der Warteschleife."
+deposit_formdata_amount_smag7_ssi_successfully,{{formData_amount}} sMAG7.ssi erfolgreich eingezahlt
+deposit_formdata_amount_value2_successfully,Einzahlung {{formData_amount}} {{value2}} erfolgreich
+deposit_from_connected_wallet,Einzahlung aus verbundenem Wallet
+deposit_from_connected_wallet_desc,"Verwenden Sie MetaMask, WalletConnect oder einen anderen Anbieter, um Geld von Ihrem Krypto-Wallet einzuzahlen"
+deposit_from_external_account,Einzahlung von externem Konto
+deposit_from_external_account_desc,"Überweisen Sie Geld von Binance oder anderen Börsen, Ketten wie Solana und anderen Wallets"
+deposit_parsedamount_record_coin_successfully,{{parsedAmount}} {{record_coin}} erfolgreich eingezahlt.
+deposit_parsedamount_token_successfully,{{parsedAmount}} {{token}} erfolgreich eingezhlt.
+deposit_period,Einzahlungszeitraum
+deposit_regular_description,"Einzahlungen sollten nach ~{{time}} Minuten eingehen. Dieser Dienst wird von Mirror Protocol, einem unabhängigen Drittanbieter, bereitgestellt."
+deposit_suspicious_kyt_check_failed,EINZAHLUNG VERDÄCHTIG: KYT-PRÜFUNG FEHLGESCHLAGEN
+deposit_to_vault,Einzahlung in den Tresor
+deposited_formdata_amount_value2_into_vault,{{formData_amount}} {{value2}} in Tresor eingezahlt
+deposits_and_withdrawals,Ein- und Auszahlungen
+deposits_and_withdrawals_pendingcount,Ein- und Auszahlungen({{pendingCount}})
+deposittime_min,~{{depositTime}} min
+deposittime_mins,~{{depositTime}} Min.
+destination_address,Zieladresse
+disconnect,Verbindung trennen
+docs,Dokumente
+done,Fertig
+download_poster,Poster Downloaden (pdf)
+enable_claim,Beanspruchung aktivieren
+enable_gas_free_trading,Gasfreien Handel ermöglichen
+enable_trading,Handel aktivieren
+enable_trading_failed,Aktivieren des Handels fehlgeschlagen
+enable_transfer,Transfer aktivieren
+enable_unstake,Unstake aktivieren
+enable_withdraw,Auszahlung aktivieren
+ends_with_value1,Endet mit {{value1}}
+enter_amount,Betrag eingeben
+enter_code,Code eingeben
+establish_connection,Verbindung herstellen
+estimated_closed_pnl_without_fees,Geschätzte geschlossene PNL (ohne Gebühren):
+evm_funding,EVM-Finanzierung
+evm_funding_account,EVM-Finanzierungskonto
+expand,Erweitern
+expired,Abgelaufen
+explorer,Entdecker
+fail_code,Fehlercode
+fail_code_kyt_failed,KYT_Failed
+fail_code_suspicious_address,Verdächtige Adresse
+failed,Nicht bestanden
+failed_to_apply_referral_code_please,Fehler beim Anwenden des Empfehlungscodes. Bitte versuchen Sie es erneut.
+failed_to_authenticate_please_try_again,Authentifizierung fehlgeschlagen. Bitte versuchen Sie es erneut.
+failed_to_create_referral_code_please,Empfehlungscode konnte nicht erstellt werden. Bitte versuchen Sie es erneut.
+failed_to_generate_image,Bild konnte nicht generiert werden
+failed_to_get_deposit_address,Einzahlungsadresse konnte nicht abgerufen werden.
+failed_to_obtain_authentication_token_please,Authentifizierungstoken konnte nicht abgerufen werden. Bitte versuchen Sie es erneut.
+faq,FAQ
+faq_can_referral_rewards_be_claimed_now,Können Empfehlungsprämien jetzt beansprucht werden?
+faq_difference_between_pending_and_claimable,Was ist der Unterschied zwischen ausstehenden und einforderbaren Prämien?
+faq_referral_still_locked_after_1000_volume,"Ich habe bereits ein Handelsvolumen von 2.000 $ erreicht, aber die Empfehlung ist immer noch gesperrt. Warum?"
+faq_rewards_slowed_or_stopped_even_user_trading,"Warum haben sich meine Empfehlungsprämien verlangsamt oder nicht mehr erhöht, obwohl ein empfohlener Nutzer weiter handelt?"
+faq_shared_link_user_not_showing_why,"Ich habe meinen Link geteilt, aber der geworbene Benutzer wird nicht angezeigt. Warum?"
+faq_why_points_coming_soon_and_25_bonus_counted,"Warum zeigen Punkte immer noch ""Demnächst"" an? Werden Punkte und der 25% ige Empfehlungs-Bonus bereits gezählt?"
+faq_why_weekly_invite_limit_reached,Warum sieht mein Freund beim Anwenden meines Empfehlungscodes/-links „wöchentliches Einladungslimit erreicht“?
+faq_will_past_trades_count_after_linking_code,"Zählen die vergangenen Trades eines empfohlenen Benutzers, nachdem er meinen Empfehlungscode verlinkt hat?"
+fee,Gebühr
+fees,Gebühren
+fill_with_connected_wallet_connectedwalletdisplay,Mit verbundenem Wallet füllen: {{connectedWalletDisplay}}
+filled,Gefüllt
+filled_amount,Gefüllter Betrag
+first_deposit_fee,Erste Einzahlung
+first_deposit_fee_tooltip,"Für die erste Einzahlung berechnet das {{coin}} -Netzwerk eine Gebühr von 1 {{coin}}, um deine Adresse zu aktivieren."
+for_isolated_positions_the_margin_includes,Bei isolierten Positionen enthält die Marge nicht realisierte Gewinne.
+formdata_amount_value2_are_staking,{{formData_amount}} {{value2}} setzen...
+from,Von
+fund_to_spot_transfer,EVM-Fonds-zu-Spot-Überweisung
+funding,Finanzierung
+funding_history,Finanzierungshistorie
+futures,Futures
+futures_account,Futures Konto
+gain,Zugewinn
+get_stuck_click_to_get_help,"Bleiben Sie stecken? Klicken Sie hier, um Hilfe zu erhalten"
+get_the_tokens_from_external_wallets,Holen Sie sich die Token aus externen Wallets oder verbundenen Wallets.
+hide,Verbergen
+high_risk_address_description,Die Zieladresse wurde als Hochrisiko gekennzeichnet. Bitte verwenden Sie eine andere Auszahlungsadresse und versuchen Sie es erneut.
+image_copied_to_clipboard_share_telegram,Bild in Zwischenablage kopiert. Sie können es jetzt auf Telegram teilen
+image_copied_to_clipboard_share_x,Bild in Zwischenablage kopiert. Sie können es jetzt auf X teilen
+image_downloaded_share_telegram,Bild heruntergeladen. Sie können es jetzt auf Telegram teilen.
+image_downloaded_share_x,Bild heruntergeladen. Sie können es jetzt auf X teilen.
+in_one_transfer,(In einer Übertragung)
+index_price,Index-Preis
+indicators,Indikatoren 
+insufficient_balance,Unzureichends Guthaben
+invalid_address_format,Ungültiges Adressformat
+invalid_referral_code,Ungültiger Empfehlungscode
+invalid_signature_message_please_refresh_and,Ungültige Signaturnachricht. Bitte aktualisieren und erneut versuchen.
+isolated,Isoliert
+join_me_to_earn_on_sodex,"Folge mir und verdiene auf SoDEX! 
+
+ Traden und verdienen Sie jetzt auf SoDEX:"
+join_whitelist,In WhiteList eintragen
+kyt_failed,KYT fehlgeschlagen
+kyt_powered_by,Unterstützt von
+language,Sprache
+language_and_number_format,Sprache & Zahlenformat
+latest_price,Neuster Preis
+leaderboar_rules,Rangliste-Regeln
+learn_more,Mehr erfahren
+limit_order,Limit-Order
+liq_price,Liq.Preis
+loading,Wird geladen …
+long,Long
+loss,Verlust
+lucky_block_rewards_details,Details zu Glücksblock-Belohnungen
+mag7_ssi_deposit_warning,"Wenn Sie MAG7.ssi auf SoDEX Spot einzahlen, können Sie vorübergehend weniger SSI-Treuepunkte sammeln. Übertrage MAG7.ssi an {{account}} oder SLP Vault, um weiterhin SSI-Staking-Punkte zu sammeln.*"
+mainnet,Mainnet
+make_another_deposit,Eine weitere Einzahlung ausführen
+margin,Margin
+margin_mode,Marginmodus
+mark_price,Referenz Preis
+market,Markt
+market_close,Marktschluss
+market_order,Markt Order
+market_trades,Marktgeschäfte
+max,Max.
+max_value1,Max: {{value1}}
+memo_if_required,(falls erforderlich)
+memo_is_required,Ist erforderlich
+memo_must_contain_only_numbers,Das Password darf nur Ziffern enthalten
+memo_warning_tooltip,"Wenn Ihre Börse/Geldbörse ein Memo für diese Einzahlung benötigt, geben Sie eine beliebige 9-stellige Nummer ein (z. B. 123456789). SoDEX benötigt kein Memo."
+milestone_rewards,Meilenstein-Belohnungen
+minimum_deposit,Minimale Einzahlung
+minimum_withdrawal_amount,Es gibt eine Mindestabhebung von {{amount}} {{coin}}.
+more,Mehr
+must_specify_entry_price,Muss Einstiegspreis angeben.
+must_specify_order_amount,Muss Bestellbetrag angeben.
+must_to_know,Das muss man wissen
+net_asset_value,Nettoinventarwert
+network,Netzwerk-
+network_switch_failed,Netzwerkschalter fehlgeschlagen. Bitte versuchen Sie es erneut.
+network_switch_rejected,Netzwerk-Switch abgelehnt. Bitte genehmigen Sie in Ihrem Wallet.
+new,Neu
+new_code_cannot_be_the_same,Neuer Code darf nicht mit dem aktuellen Code identisch sein
+new_referrals_may_take_up_to_30_min_to_appear,"Es kann bis zu ~30 Minuten dauern, bis neue Empfehlungen angezeigt werden."
+next,Nächste
+no,Nr.
+no_data,Keine Daten
+no_data_available,Keine Daten verfügbar
+open_orders,Offene Aufträge
+order_book,Orderbuch
+order_failed,Bestellung fehlgeschlagen
+order_history,Bestellhistorie
+order_id,Auftragsnummer
+original_size,Originalgröße
+overview,Überblick
+parsedamount_record_coin_deposit_pending,{{parsedAmount}} {{record_coin}} Einzahlung ausstehend.
+parsedamount_record_coin_withdraw_pending,{{parsedAmount}} {{record_coin}} Auszahlung ausstehend.
+parsedamount_token_deposit_pending,{{parsedAmount}} {{token}} Einzahlung ausstehend.
+parsedamount_token_withdraw_pending,{{parsedAmount}} {{token}} Auszahlung ausstehend.
+partially_filled,Teilweise gefüllt
+payload_account_id,Konto-ID
+payload_cancels,Storniert
+payload_client_order_id,Bestellung des Klienten
+payload_coin,Münze
+payload_funds,Fonds
+payload_modifier,Modifizierer
+payload_order_id,Auftragsnummer
+payload_order_side,Auftragsseite
+payload_order_type,Bestelltyp
+payload_orders,Aufträge
+payload_original_client_order_id,Ursprüngliche Kundenauftrags-ID
+payload_position_side,Position
+payload_price,Preis
+payload_quantity,Anzahl
+payload_reduce_only,Nur verkleinern
+payload_side,Seite
+payload_size,Größe
+payload_stop_price,Stopp-Preis
+payload_stop_type,Stopptyp
+payload_time_in_force,Inkraftsetzung
+payload_trigger_type,Auslösertyp
+payload_type,Typ
+payment,Zahlung
+pending,Ausstehend
+pending_cancel,Ausstehende Stornierung
+pending_modify,Wartend (Bearbeiten)
+pending_new,Ausstehend (neu)
+pick_the_market_you_want_to,"Wählen Sie den Markt, den Sie handeln möchten."
+platform_tour,Plattform-Tour
+please_connect_your_wallet_first,Bitte verbinden Sie zuerst Ihre Wallet
+please_enable_trading_first,Bitte aktivieren Sie zuerst den Handel.
+please_enable_trading_to_withdraw_from,"Bitte aktivieren Sie den Handel, um vom Spot-Konto abzuheben."
+please_enter_a_price,Bitte geben Sie einen Preis ein.
+points,Punkte
+points_claim_history,Punkthistorie
+portfolio,Portfolio
+position,Position
+position_history,Positionsentwicklung
+position_side,Position
+position_value,Positionswert:
+price,Preis
+price_cannot_be_higher_than_max_unit,Der Preis darf nicht höher sein als {{max}} {{unit}}
+price_cannot_be_lower_than_min_unit,Preis darf nicht niedriger sein als {{min}} {{unit}}
+price_priceunit,Preis({{priceUnit}})
+price_usdc,Preis (USDC)
+private_key_refresh_failed,Aktualisierung des privaten Schlüssels fehlgeschlagen
+quantity,Anzahl
+rank,Rang
+receiver_address_format_error,Empfänger-Adressformat-Fehler
+redirect_to_ssi_sosovalue_com,Weiterleitung an ssi.sosovalue.com
+reduce_only_too_large,Nur zu groß reduzieren
+referral_code_already_exists,Empfehlungscode existiert bereits
+referral_code_already_exists_for_this,Der Empfehlungscode für dieses Wallet ist bereits vorhanden
+referral_code_created_successfully_2,Empfehlungscode erfolgreich erstellt!
+referral_code_exists_in_external_service,Empfehlungscode existiert im externen Dienst
+referral_code_has_already_been_modified,"Empfehlungscode wurde bereits geändert, kann nicht erneut geändert werden"
+referral_code_has_already_been_used,Empfehlungscode wurde bereits verwendet
+referral_code_is_required,Empfehlungscode ist erforderlich
+referral_code_not_found_for_this,Empfehlungscode für dieses Wallet nicht gefunden
+referral_link,Empfehlungslink
+referrals,Empfehlungen
+rejected,Abgelehnt
+research_terminal,Forschungsterminal
+reset,Zurücksetzen
+retry,Erneut versuchen
+retry_withdrawal,Auszahlung erneut versuchen
+review,Prüfung
+rewards,Belohnungen
+rows_per_page,Zeilen pro Seite
+save,Speichern
+search_coins,Suche {{coins}}
+select_chain,Regelkette auswählen
+select_coin,"'Coin auswählen',"
+select_market,Markt wählen
+sell,Verkaufen
+settings,Einstellungen
+share,Teil
+share_code,Code teilen
+share_link,Link teilen
+share_to_earn,Freigeben für
+short,Kurz
+sign_failed,Die Anmeldung ist fehlgeschlagen
+sign_transactions,Transaktionen unterzeichnen
+signature_request_was_rejected_please_try_2,Signaturanfrage wurde abgelehnt. Bitte versuchen Sie es erneut.
+size,Größe
+sl_price,SL-Preis
+sl_price_must_be_greater_than,"Der SL-Preis muss größer als 0 und niedriger als der Grenzpreis sein. Um die Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+sl_price_must_be_higher_than,"SL-Preis muss höher als Grenzpreis sein. Um die Position sofort zu schließen, verwenden Sie die Positionstabelle oder das Bestellformular."
+slots,Termine
+sodex_supports_multiple_options_to_fund,"SoDEX unterstützt mehrere Optionen, um Ihr Konto zu finanzieren. Finden Sie eine Methode, die am besten zu Ihnen passt."
+sodex_value1_png,SoDEX_{{value1}}.png
+sodex_will_cover_the_service_fees,SoDEX übernimmt diesmal die Servicegebühren für Sie.
+sold,verkauft
+spot,Stelle
+spot_account,Spot-Konto
+spot_to_fund_transfer,Spot-to-EVM-Fonds-Überweisung
+stake_formdata_amount_value2_successfully,Einsatz {{formData_amount}} {{value2}} erfolgreich
+standard_wallet_transfers_only,Nur Standard-Wallet-Überweisungen
+standard_wallet_transfers_only_tooltip,Von einer Standard-Wallet-Adresse (EOA) senden. Beispiele: MetaMask oder eine Exchange-Auszahlungsadresse. Übertragungen von Smart Contracts/Contract Wallets werden nicht unterstützt.
+start_bitcoin_trading_on_sodex,Starten Sie den Bitcoin-Handel auf SoDEX
+start_tour,Tour starten
+stats,Statistik
+status,Status
+stocks,Aktien
+stop_limit,Stop-Limit
+stop_loss,Stop-Loss
+stop_market,Stop Markt
+support,Support
+suspicious_address,Verdächtige Adresse
+switch,Wechseln
+switching,Wechsel...
+switching_to_network,Wechsel zu {{network}}...
+take_a_quick_tour_to_learn,"Machen Sie eine kurze Tour, um die Grundlagen zu erlernen. Sie können es jetzt überspringen und jederzeit in den Einstellungen neu starten."
+take_profit,"Take-Profit
+"
+take_profit_stop_loss,Take-Profit / Stop-Loss
+telegram,Telegramm
+testnet,Testnet
+the_destination_address_was_flagged_as,Die Zieladresse wurde als Hochrisiko gekennzeichnet. Bitte verwenden Sie eine andere Auszahlungsadresse und versuchen Sie es erneut.
+the_order_has_been_filled,Die Bestellung wurde ausgeführt.
+this_deposit_was_flagged_because_the,"Diese Einzahlung wurde markiert, da die Quelladresse das KYT-Screening nicht bestanden hat. Die Mittel sind derzeit in der Warteschleife. Du kannst eine Rückerstattung beantragen, um das Geld an die ursprüngliche Quelle zurückzugeben, oder den Support kontaktieren, wenn du der Meinung bist, dass dies ein Fehler ist."
+time,Uhrzeit
+time_0s_ago,Vor 0s
+time_d_ago,vor {{days}}d
+time_days_hours_minutes,{{days}}Tage {{hours}}h {{minutes}}min
+time_h_ago,vor {{hours}}h
+time_hours_minutes,{{hours}}h {{minutes}}min
+time_less_than_a_minute,weniger als eine Minute
+time_m_ago,vor {{minutes}}m
+time_minutes,{{minutes}}min
+time_s_ago,vor {{seconds}}s
+to,Herrn
+to_address,Empfänger Adresse
+tools,Instrumente
+total_balance,Gesamtsaldo
+total_formatbaseunitview,Gesamt({{formatBaseUnitView}})
+total_oi,Gesamt-OI
+total_users,Gesamtbenutzeranzahl
+total_volume,Gesamtvolumen
+tp_price,TP-Preis
+tp_price_must_be_greater_than,Der TP-Preis muss größer als 0 und niedriger als der Grenzpreis sein.
+tp_price_must_be_higher_than,Der TP-Preis muss höher als der Grenzpreis sein.
+tp_sl,TP/SL
+tp_sl_price_is_invalid,TP/SL-Preis ist ungültig.
+trade,Gewerk
+trade_history,Handelsverlauf
+trade_more,Mehr handeln
+trading_volume_is_less_than_the,Das Handelsvolumen liegt unter dem Schwellenwert
+transaction_failed_error_message,Transaktion fehlgeschlagen: {{error_message}}
+transaction_in_progress_you_can_safely,Transaktion läuft. Sie können dieses Fenster sicher schließen.
+transaction_proceeding,Transaktionsverfahren
+transaction_proceeding_2,Transaktionsablauf
+transaction_rejected_by_kyt,Diese Transaktion wurde vom KYT-Screening abgelehnt.
+transfer,Überweisung
+transfer_asset_among_your_accounts_to,"Übertragen Sie Assets zwischen Ihren Konten, um die Transaktion abzuschließen."
+transfer_assets_from_spot_to_futures,Übertragen Sie Vermögenswerte von Ihrem SPOT-Konto auf ein Futures-Konto auf SoDEX.
+treasure_box,School Outfit m
+trigger_price,Auslösungspreis
+triggered,Getriggert
+try_again,Erneut versuchen
+tvl,TVL
+twitter,Twitter
+unknown,Unbekannt
+unrealized_pnl,Nicht realisierte PnL
+unstake,Einsatz aufheben
+unstaking_smag7_ssi_to_mag7_ssi,Trennung von sMAG7.ssi zu MAG7.ssi
+usd_value,(usd) WERT
+used,Benutzt
+user,Benutzer
+user_is_not_allowed_to_invite,Benutzer darf nicht einladen
+users_with_deposits_5,Benutzer mit Einzahlungen > $ 5
+valuescan_evm,ValueScan (EVM)
+vault,Tresor
+view_deposit_history,Einzahlungshistorie
+volume,Volumen
+week_number,WOCHE {{number}}
+weekly_invite_limit_reached,Limit für wöchentliche Einladungen erreicht
+weekly_invite_limit_reached_with_time,Dieser Code hat sein wöchentliches Einladungslimit erreicht. Versuche es mit einem anderen Code oder warte bis {{time}}.
+weekly_quota,Wöchentliches Kontingent
+whitepaper,Weißes Papier
+withdraw,Zurückziehen
+withdraw_formattedamount_coinsymbol_successfully,{{formattedAmount}} {{coinSymbol}} erfolgreich abheben.
+withdraw_parsedamount_record_coin_successfully,{{parsedAmount}} {{record_coin}} erfolgreich abheben.
+withdraw_parsedamount_token_successfully,{{parsedAmount}} {{token}} erfolgreich abheben.
+withdraw_to,Auszahlung an {{chain}}
+withdrawal_failed_high_risk_address,Auszahlung Fehlgeschlagen: Adresse mit hohem Risko
+withdrawing_smag7_ssi_from_slp,Entnahme von sMAG7.ssi aus SLP
+yes,Ja
+you_are_not_in_the_whitelist,Sie befinden sich in der Whitelist
+you_deposit,hinterlegen
+you_deposit_2,hinterlegen
+you_have_already_been_referred_by,Sie wurden bereits von einem anderen Benutzer empfohlen
+you_receive,Du erhälst
+you_receive_2,Sie erhalten
+you_will_need_to_sign_this,Sie müssen diese Transaktion in Ihrem Wallet unterschreiben.
+you_will_receive_10_of_referred,Sie erhalten 10 % der Gebühren der empfohlenen Nutzer und 25 % ihrer Punkte.
+you_withdraw,Sie zahlen aus
+your_1_deposit_transaction_is_pending,Einzahlungstransaktion ausstehend: 1.
+your_pendingcount_deposit_transactions_are_pending,Deine {{pendingCount}} Einzahlungstransaktionen sind ausstehend.

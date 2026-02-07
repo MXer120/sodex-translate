@@ -1,0 +1,25 @@
+﻿key,value
+all_data_updates_daily_at_utc,"Alle Daten werden täglich um 00:10 UTC aktualisiert, mit Ausnahme von PnL, das in Echtzeit aktualisiert wird."
+average_daily_int,Durchschnittlicher täglicher Int ⓘ
+bot,BOT
+closed_pnl_futures,Geschlossene Gewinn- und Verlustrechnung (Futures)
+deposits_and_returns_in_vault,Einzahlungen und Rückgaben im Tresor
+historical_earnings,Historische Einnahmen ⓘ
+inflow_avg,Zuflussdurchschnitt ⓘ
+last_updated_value1_utc,Letzte Aktualisierung: {{value1}} (UTC)
+meme,MEME
+net_inflow,Nettozufluss ⓘ
+profit_loss_futures_vault,Gewinn und Verlust (Futures und Tresor)
+ref_underlying_discord_deposit_ref,Ref Basiswert + Discord ⓘ Einzahlungsreferenz ⓘ
+the_amount_of_funds_in_your,"Der Geldbetrag auf Ihrem Konto, den Sie für den Handel oder für Abhebungen verwenden können, ausgenommen etwaige Gelder, die derzeit in offenen Aufträgen oder Positionen gesperrt sind."
+the_total_value_of_all_your,Der Gesamtwert aller Ihrer Vermögenswerte (Spot + Futures + EVM-Finanzierung + Vault)
+the_total_value_of_all_your_2,Der Gesamtwert aller Ihrer Vermögenswerte (Spot + Futures + EVM-Finanzierung)
+the_total_value_of_all_your_3,"Der Gesamtwert aller Ihrer Vermögenswerte, ohne Tresoreinlagen und EVM-Finanzierung. Berechnet in Echtzeit basierend auf aktuellen Preisen."
+total_assets,Gesamtvermögen
+total_assets_futures,Gesamtvermögen (Futures)
+total_assets_futures_vault_all_time,Gesamtvermögen (Futures + Tresor) aller Zeiten
+total_pnl,Gesamt-PnL
+trading_value,Handelswert
+unrealized_pnl_futures,Nicht realisierter PnL (Futures)
+vault_balance,Tresorguthaben
+vault_pnl,Tresor-PnL
